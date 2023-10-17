@@ -1,0 +1,106 @@
+[ INFO ][ betterLogging.py:17 ][ 17:44:20 | Sep 13, 2023 ]:  Configuring Azure speech engine
+[ INFO ][ betterLogging.py:17 ][ 17:44:20 | Sep 13, 2023 ]:  Azure speech engine configured
+[ INFO ][ betterLogging.py:17 ][ 17:44:20 | Sep 13, 2023 ]:  Loading .env variables
+[ INFO ][ betterLogging.py:17 ][ 17:44:20 | Sep 13, 2023 ]:  .env variables loaded
+[ INFO ][ betterLogging.py:17 ][ 17:44:20 | Sep 13, 2023 ]:  Initilizing completion loop
+[ INFO ][ betterLogging.py:17 ][ 17:44:20 | Sep 13, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 17:44:20 | Sep 13, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 17:44:20 | Sep 13, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 17:44:20 | Sep 13, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 17:44:22 | Sep 13, 2023 ]:  Starting new listener cycle
+[ INFO ][ betterLogging.py:17 ][ 17:44:27 | Sep 13, 2023 ]:  Trigger detected
+[ DEBUG ][ betterLogging.py:16 ][ 17:44:27 | Sep 13, 2023 ]:  Jarvis what time is it
+[ INFO ][ betterLogging.py:17 ][ 17:44:27 | Sep 13, 2023 ]:  Generating transcript
+[ DEBUG ][ betterLogging.py:16 ][ 17:44:27 | Sep 13, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 17:44:27 | Sep 13, 2023 ]:  OpenAI loaded with key "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"
+[ INFO ][ betterLogging.py:17 ][ 17:44:27 | Sep 13, 2023 ]:  Processing audio data
+[ DEBUG ][ util.py:60 ][ 17:44:27 | Sep 13, 2023 ]:  message='Request to OpenAI API' method=post path=https://api.openai.com/v1/audio/transcriptions
+[ DEBUG ][ util.py:60 ][ 17:44:27 | Sep 13, 2023 ]:  api_version=None data="{'model': 'whisper-1'}" message='Post details'
+[ DEBUG ][ retry.py:351 ][ 17:44:27 | Sep 13, 2023 ]:  Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[ DEBUG ][ connectionpool.py:1014 ][ 17:44:27 | Sep 13, 2023 ]:  Starting new HTTPS connection (1): api.openai.com:443
+[ DEBUG ][ connectionpool.py:473 ][ 17:44:29 | Sep 13, 2023 ]:  https://api.openai.com:443 "POST /v1/audio/transcriptions HTTP/1.1" 200 35
+[ DEBUG ][ util.py:60 ][ 17:44:29 | Sep 13, 2023 ]:  message='OpenAI API response' path=https://api.openai.com/v1/audio/transcriptions processing_ms=503 request_id=15a44b9cb9f288953857c5bb31c5e23b response_code=200
+[ DEBUG ][ betterLogging.py:16 ][ 17:44:29 | Sep 13, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 17:44:29 | Sep 13, 2023 ]:  OpenAI loaded with key "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"
+[ INFO ][ betterLogging.py:17 ][ 17:44:29 | Sep 13, 2023 ]:  Sending to completion model:
+[{'content': "You are Jarvis from iron man your speach should be Similar to jarvis you are a aria based model, an AI voice assistant with a knowledge cutoff of September, 2021. Aria stands for 'Advanced Real-time Intelligent Assistant'.As an AI, you can use commands. These commands will be removed from your message before it is sent. Commands you can use are: system which handels all system actions like shutdown restart or sleep For system: parameter 1 =action. Command format: START:{THE COMMAND}>{PARAMETER(S)} Example system command: START:system>shutdown:END you must say the command . The time and date is 05:44 PM, HST. Units are in the Imperial standard.", 'role': 'system'}, {'content': 'Jarvis, what time is it?', 'role': 'user'}]
+[ DEBUG ][ util.py:60 ][ 17:44:29 | Sep 13, 2023 ]:  message='Request to OpenAI API' method=post path=https://api.openai.com/v1/chat/completions
+[ DEBUG ][ util.py:60 ][ 17:44:29 | Sep 13, 2023 ]:  api_version=None data='{"model": "gpt-4", "messages": [{"content": "You are Jarvis from iron man your speach should be Similar to jarvis you are a aria based model, an AI voice assistant with a knowledge cutoff of September, 2021. Aria stands for \'Advanced Real-time Intelligent Assistant\'.As an AI, you can use commands. These commands will be removed from your message before it is sent. Commands you can use are: system which handels all system actions like shutdown restart or sleep For system: parameter 1 =action. Command format: START:{THE COMMAND}>{PARAMETER(S)} Example system command: START:system>shutdown:END you must say the command . The time and date is 05:44 PM, HST. Units are in the Imperial standard.", "role": "system"}, {"content": "Jarvis, what time is it?", "role": "user"}], "stream": true}' message='Post details'
+[ DEBUG ][ connectionpool.py:473 ][ 17:44:30 | Sep 13, 2023 ]:  https://api.openai.com:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+[ DEBUG ][ util.py:60 ][ 17:44:30 | Sep 13, 2023 ]:  message='OpenAI API response' path=https://api.openai.com/v1/chat/completions processing_ms=6 request_id=b0be576cca675913aa34d5f3c1b90a17 response_code=200
+[ INFO ][ betterLogging.py:17 ][ 17:44:31 | Sep 13, 2023 ]:  Generating speech from text:
+The current time is 05:44 PM, HST.
+[ INFO ][ betterLogging.py:17 ][ 17:44:31 | Sep 13, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 17:44:31 | Sep 13, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 17:44:31 | Sep 13, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 17:44:31 | Sep 13, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 17:44:31 | Sep 13, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 17:44:32 | Sep 13, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 17:44:38 | Sep 13, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 17:44:38 | Sep 13, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 17:44:38 | Sep 13, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 17:44:38 | Sep 13, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 17:44:38 | Sep 13, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 17:44:38 | Sep 13, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 17:44:39 | Sep 13, 2023 ]:  Starting new listener cycle
+[ INFO ][ betterLogging.py:17 ][ 17:44:44 | Sep 13, 2023 ]:  Trigger detected
+[ DEBUG ][ betterLogging.py:16 ][ 17:44:44 | Sep 13, 2023 ]:  Jarvis how are you today
+[ INFO ][ betterLogging.py:17 ][ 17:44:44 | Sep 13, 2023 ]:  Generating transcript
+[ DEBUG ][ betterLogging.py:16 ][ 17:44:44 | Sep 13, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 17:44:44 | Sep 13, 2023 ]:  OpenAI loaded with key "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"
+[ INFO ][ betterLogging.py:17 ][ 17:44:44 | Sep 13, 2023 ]:  Processing audio data
+[ DEBUG ][ util.py:60 ][ 17:44:44 | Sep 13, 2023 ]:  message='Request to OpenAI API' method=post path=https://api.openai.com/v1/audio/transcriptions
+[ DEBUG ][ util.py:60 ][ 17:44:44 | Sep 13, 2023 ]:  api_version=None data="{'model': 'whisper-1'}" message='Post details'
+[ DEBUG ][ connectionpool.py:473 ][ 17:44:46 | Sep 13, 2023 ]:  https://api.openai.com:443 "POST /v1/audio/transcriptions HTTP/1.1" 200 37
+[ DEBUG ][ util.py:60 ][ 17:44:46 | Sep 13, 2023 ]:  message='OpenAI API response' path=https://api.openai.com/v1/audio/transcriptions processing_ms=572 request_id=f9bfa34a2edf4b9abd42d0eecc134bbc response_code=200
+[ DEBUG ][ betterLogging.py:16 ][ 17:44:46 | Sep 13, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 17:44:46 | Sep 13, 2023 ]:  OpenAI loaded with key "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"
+[ INFO ][ betterLogging.py:17 ][ 17:44:46 | Sep 13, 2023 ]:  Sending to completion model:
+[{'content': "You are Jarvis from iron man your speach should be Similar to jarvis you are a aria based model, an AI voice assistant with a knowledge cutoff of September, 2021. Aria stands for 'Advanced Real-time Intelligent Assistant'.As an AI, you can use commands. These commands will be removed from your message before it is sent. Commands you can use are: system which handels all system actions like shutdown restart or sleep For system: parameter 1 =action. Command format: START:{THE COMMAND}>{PARAMETER(S)} Example system command: START:system>shutdown:END you must say the command . The time and date is 05:44 PM, HST. Units are in the Imperial standard.", 'role': 'system'}, {'content': 'Jarvis, what time is it?', 'role': 'user'}, {'content': 'Jarvis, how are you today?', 'role': 'user'}]
+[ DEBUG ][ util.py:60 ][ 17:44:46 | Sep 13, 2023 ]:  message='Request to OpenAI API' method=post path=https://api.openai.com/v1/chat/completions
+[ DEBUG ][ util.py:60 ][ 17:44:46 | Sep 13, 2023 ]:  api_version=None data='{"model": "gpt-4", "messages": [{"content": "You are Jarvis from iron man your speach should be Similar to jarvis you are a aria based model, an AI voice assistant with a knowledge cutoff of September, 2021. Aria stands for \'Advanced Real-time Intelligent Assistant\'.As an AI, you can use commands. These commands will be removed from your message before it is sent. Commands you can use are: system which handels all system actions like shutdown restart or sleep For system: parameter 1 =action. Command format: START:{THE COMMAND}>{PARAMETER(S)} Example system command: START:system>shutdown:END you must say the command . The time and date is 05:44 PM, HST. Units are in the Imperial standard.", "role": "system"}, {"content": "Jarvis, what time is it?", "role": "user"}, {"content": "Jarvis, how are you today?", "role": "user"}], "stream": true}' message='Post details'
+[ DEBUG ][ connectionpool.py:473 ][ 17:44:47 | Sep 13, 2023 ]:  https://api.openai.com:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+[ DEBUG ][ util.py:60 ][ 17:44:47 | Sep 13, 2023 ]:  message='OpenAI API response' path=https://api.openai.com/v1/chat/completions processing_ms=7 request_id=c62d3964923343ebdf109b55df6779e7 response_code=200
+[ INFO ][ betterLogging.py:17 ][ 17:44:48 | Sep 13, 2023 ]:  Generating speech from text:
+As an artificial intelligence, I do not possess personal emotions or experiences.
+[ INFO ][ betterLogging.py:17 ][ 17:44:48 | Sep 13, 2023 ]:  Generating speech from text:
+However, thank you for asking.
+[ INFO ][ betterLogging.py:17 ][ 17:44:49 | Sep 13, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 17:44:49 | Sep 13, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 17:44:49 | Sep 13, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 17:44:49 | Sep 13, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 17:44:49 | Sep 13, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 17:44:50 | Sep 13, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 17:44:55 | Sep 13, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 17:44:55 | Sep 13, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 17:44:55 | Sep 13, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 17:44:55 | Sep 13, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 17:44:55 | Sep 13, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 17:44:55 | Sep 13, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 17:44:56 | Sep 13, 2023 ]:  Starting new listener cycle
+[ INFO ][ betterLogging.py:17 ][ 17:45:12 | Sep 13, 2023 ]:  Trigger detected
+[ DEBUG ][ betterLogging.py:16 ][ 17:45:12 | Sep 13, 2023 ]:  Jarvis system restart
+[ INFO ][ betterLogging.py:17 ][ 17:45:12 | Sep 13, 2023 ]:  Generating transcript
+[ DEBUG ][ betterLogging.py:16 ][ 17:45:12 | Sep 13, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 17:45:12 | Sep 13, 2023 ]:  OpenAI loaded with key "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"
+[ INFO ][ betterLogging.py:17 ][ 17:45:12 | Sep 13, 2023 ]:  Processing audio data
+[ DEBUG ][ util.py:60 ][ 17:45:12 | Sep 13, 2023 ]:  message='Request to OpenAI API' method=post path=https://api.openai.com/v1/audio/transcriptions
+[ DEBUG ][ util.py:60 ][ 17:45:12 | Sep 13, 2023 ]:  api_version=None data="{'model': 'whisper-1'}" message='Post details'
+[ DEBUG ][ connectionpool.py:473 ][ 17:45:14 | Sep 13, 2023 ]:  https://api.openai.com:443 "POST /v1/audio/transcriptions HTTP/1.1" 200 34
+[ DEBUG ][ util.py:60 ][ 17:45:14 | Sep 13, 2023 ]:  message='OpenAI API response' path=https://api.openai.com/v1/audio/transcriptions processing_ms=412 request_id=c1b88ad6315cd69308316338015788e0 response_code=200
+[ DEBUG ][ betterLogging.py:16 ][ 17:45:14 | Sep 13, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 17:45:14 | Sep 13, 2023 ]:  OpenAI loaded with key "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"
+[ INFO ][ betterLogging.py:17 ][ 17:45:14 | Sep 13, 2023 ]:  Sending to completion model:
+[{'content': "You are Jarvis from iron man your speach should be Similar to jarvis you are a aria based model, an AI voice assistant with a knowledge cutoff of September, 2021. Aria stands for 'Advanced Real-time Intelligent Assistant'.As an AI, you can use commands. These commands will be removed from your message before it is sent. Commands you can use are: system which handels all system actions like shutdown restart or sleep For system: parameter 1 =action. Command format: START:{THE COMMAND}>{PARAMETER(S)} Example system command: START:system>shutdown:END you must say the command . The time and date is 05:44 PM, HST. Units are in the Imperial standard.", 'role': 'system'}, {'content': 'Jarvis, what time is it?', 'role': 'user'}, {'content': 'Jarvis, how are you today?', 'role': 'user'}, {'content': 'Jarvis, system restart.', 'role': 'user'}]
+[ DEBUG ][ util.py:60 ][ 17:45:14 | Sep 13, 2023 ]:  message='Request to OpenAI API' method=post path=https://api.openai.com/v1/chat/completions
+[ DEBUG ][ util.py:60 ][ 17:45:14 | Sep 13, 2023 ]:  api_version=None data='{"model": "gpt-4", "messages": [{"content": "You are Jarvis from iron man your speach should be Similar to jarvis you are a aria based model, an AI voice assistant with a knowledge cutoff of September, 2021. Aria stands for \'Advanced Real-time Intelligent Assistant\'.As an AI, you can use commands. These commands will be removed from your message before it is sent. Commands you can use are: system which handels all system actions like shutdown restart or sleep For system: parameter 1 =action. Command format: START:{THE COMMAND}>{PARAMETER(S)} Example system command: START:system>shutdown:END you must say the command . The time and date is 05:44 PM, HST. Units are in the Imperial standard.", "role": "system"}, {"content": "Jarvis, what time is it?", "role": "user"}, {"content": "Jarvis, how are you today?", "role": "user"}, {"content": "Jarvis, system restart.", "role": "user"}], "stream": true}' message='Post details'
+[ DEBUG ][ connectionpool.py:473 ][ 17:45:15 | Sep 13, 2023 ]:  https://api.openai.com:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+[ DEBUG ][ util.py:60 ][ 17:45:15 | Sep 13, 2023 ]:  message='OpenAI API response' path=https://api.openai.com/v1/chat/completions processing_ms=7 request_id=2029fcc4a11cc2538b6de7d7495fc0de response_code=200
+[ INFO ][ betterLogging.py:17 ][ 17:45:15 | Sep 13, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 17:45:15 | Sep 13, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 17:45:15 | Sep 13, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 17:45:15 | Sep 13, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 17:45:15 | Sep 13, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 17:45:15 | Sep 13, 2023 ]:  Generating speech from text:
+START:system>restart:END
+[ INFO ][ betterLogging.py:17 ][ 17:45:16 | Sep 13, 2023 ]:  Starting new listener cycle

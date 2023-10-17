@@ -1,0 +1,1656 @@
+[ DEBUG ][ parse.py:371 ][ 07:43:46 | Oct 07, 2023 ]:  format '%I:%M %p | %d %B, %Y' -> '%I:%M %p \\| %d %B, %Y'
+[ INFO ][ betterLogging.py:17 ][ 07:43:46 | Oct 07, 2023 ]:  Configuring Azure speech engine
+[ INFO ][ betterLogging.py:17 ][ 07:43:46 | Oct 07, 2023 ]:  Azure speech engine configured
+[ INFO ][ betterLogging.py:17 ][ 07:43:48 | Oct 07, 2023 ]:  Loading .env variables
+[ INFO ][ betterLogging.py:17 ][ 07:43:48 | Oct 07, 2023 ]:  .env variables loaded
+[ INFO ][ betterLogging.py:17 ][ 07:43:48 | Oct 07, 2023 ]:  Initilizing completion loop
+[ INFO ][ betterLogging.py:17 ][ 07:43:48 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 07:43:48 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 07:43:48 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 07:43:48 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 07:43:50 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 07:44:08 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 07:44:08 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 07:44:08 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 07:44:08 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 07:44:08 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 07:44:08 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 07:44:09 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 07:48:52 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 07:48:52 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 07:48:52 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 07:48:52 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 07:48:52 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 07:48:52 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 07:48:53 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 07:52:58 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 07:52:58 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 07:52:58 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 07:52:58 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 07:52:58 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 07:52:58 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 07:52:59 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 07:53:52 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 07:53:52 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 07:53:52 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 07:53:52 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 07:53:52 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 07:53:52 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 07:53:53 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 07:58:52 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 07:58:52 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 07:58:52 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 07:58:52 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 07:58:52 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 07:58:52 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 07:58:53 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 08:03:52 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 08:03:52 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 08:03:52 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 08:03:52 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 08:03:52 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 08:03:52 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 08:03:53 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 08:04:14 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 08:04:14 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 08:04:14 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 08:04:14 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 08:04:14 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 08:04:14 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 08:04:15 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 08:06:23 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 08:06:23 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 08:06:23 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 08:06:23 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 08:06:23 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 08:06:23 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 08:06:24 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 08:06:30 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 08:06:30 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 08:06:30 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 08:06:30 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 08:06:30 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 08:06:30 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 08:06:31 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 08:06:49 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 08:06:49 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 08:06:49 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 08:06:49 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 08:06:49 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 08:06:49 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 08:06:50 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 08:07:42 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 08:07:42 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 08:07:42 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 08:07:42 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 08:07:42 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 08:07:42 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 08:07:43 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 08:08:52 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 08:08:52 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 08:08:52 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 08:08:52 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 08:08:52 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 08:08:52 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 08:08:53 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 08:13:52 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 08:13:52 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 08:13:52 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 08:13:52 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 08:13:52 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 08:13:52 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 08:13:53 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 08:15:13 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 08:15:13 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 08:15:13 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 08:15:13 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 08:15:13 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 08:15:13 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 08:15:14 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 08:15:17 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 08:15:17 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 08:15:17 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 08:15:17 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 08:15:17 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 08:15:17 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 08:15:18 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 08:15:32 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 08:15:32 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 08:15:32 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 08:15:32 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 08:15:32 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 08:15:32 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 08:15:33 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 08:15:44 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 08:15:44 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 08:15:44 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 08:15:44 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 08:15:44 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 08:15:44 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 08:15:45 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 08:16:06 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 08:16:06 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 08:16:06 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 08:16:06 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 08:16:06 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 08:16:06 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 08:16:07 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 08:16:30 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 08:16:30 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 08:16:30 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 08:16:30 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 08:16:30 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 08:16:30 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 08:16:31 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 08:16:53 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 08:16:53 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 08:16:53 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 08:16:53 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 08:16:53 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 08:16:53 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 08:16:54 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 08:17:24 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 08:17:24 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 08:17:24 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 08:17:24 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 08:17:24 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 08:17:24 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 08:17:25 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 08:18:52 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 08:18:52 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 08:18:52 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 08:18:52 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 08:18:52 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 08:18:52 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 08:18:53 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 08:23:52 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 08:23:52 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 08:23:52 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 08:23:52 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 08:23:52 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 08:23:52 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 08:23:53 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 08:29:04 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 08:29:04 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 08:29:04 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 08:29:04 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 08:29:04 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 08:29:04 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 08:29:05 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 08:30:04 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 08:30:04 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 08:30:04 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 08:30:04 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 08:30:04 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 08:30:04 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 08:30:05 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 08:30:47 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 08:30:47 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 08:30:47 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 08:30:47 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 08:30:47 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 08:30:47 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 08:30:48 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 08:33:19 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 08:33:19 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 08:33:19 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 08:33:19 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 08:33:19 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 08:33:19 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 08:33:20 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 08:33:57 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 08:33:57 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 08:33:57 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 08:33:57 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 08:33:57 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 08:33:57 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 08:33:58 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 08:34:00 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 08:34:00 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 08:34:00 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 08:34:00 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 08:34:00 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 08:34:00 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 08:34:01 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 08:34:46 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 08:34:46 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 08:34:46 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 08:34:46 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 08:34:46 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 08:34:46 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 08:34:47 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 08:39:05 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 08:39:05 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 08:39:05 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 08:39:05 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 08:39:05 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 08:39:05 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 08:39:06 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 08:40:22 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 08:40:22 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 08:40:22 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 08:40:22 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 08:40:22 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 08:40:22 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 08:40:23 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 08:42:06 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 08:42:06 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 08:42:06 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 08:42:06 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 08:42:06 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 08:42:06 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 08:42:07 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 08:43:26 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 08:43:26 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 08:43:26 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 08:43:26 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 08:43:26 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 08:43:26 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 08:43:27 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 08:43:31 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 08:43:31 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 08:43:31 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 08:43:31 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 08:43:31 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 08:43:31 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 08:43:32 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 08:43:35 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 08:43:35 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 08:43:35 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 08:43:35 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 08:43:35 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 08:43:35 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 08:43:36 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 08:43:40 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 08:43:40 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 08:43:40 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 08:43:40 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 08:43:40 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 08:43:40 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 08:43:41 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 08:43:44 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 08:43:44 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 08:43:44 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 08:43:44 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 08:43:44 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 08:43:44 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 08:43:45 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 08:43:47 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 08:43:47 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 08:43:47 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 08:43:47 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 08:43:47 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 08:43:47 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 08:43:48 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 08:44:01 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 08:44:01 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 08:44:01 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 08:44:01 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 08:44:01 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 08:44:01 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 08:44:02 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 08:44:05 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 08:44:05 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 08:44:05 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 08:44:05 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 08:44:05 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 08:44:05 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 08:44:06 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 08:44:09 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 08:44:09 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 08:44:09 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 08:44:09 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 08:44:09 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 08:44:09 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 08:44:10 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 08:44:23 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 08:44:23 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 08:44:23 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 08:44:23 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 08:44:23 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 08:44:23 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 08:44:24 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 08:44:49 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 08:44:49 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 08:44:49 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 08:44:49 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 08:44:49 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 08:44:49 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 08:44:50 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 08:48:54 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 08:48:54 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 08:48:54 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 08:48:54 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 08:48:54 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 08:48:54 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 08:48:55 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 08:54:06 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 08:54:06 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 08:54:06 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 08:54:06 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 08:54:06 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 08:54:06 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 08:54:07 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 08:59:06 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 08:59:06 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 08:59:06 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 08:59:06 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 08:59:06 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 08:59:06 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 08:59:07 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 09:04:06 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 09:04:06 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 09:04:06 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 09:04:06 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 09:04:06 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 09:04:06 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 09:04:07 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 09:08:54 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 09:08:54 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 09:08:54 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 09:08:54 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 09:08:54 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 09:08:54 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 09:08:55 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 09:14:06 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 09:14:06 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 09:14:06 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 09:14:06 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 09:14:06 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 09:14:06 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 09:14:07 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 09:19:06 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 09:19:06 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 09:19:06 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 09:19:06 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 09:19:06 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 09:19:06 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 09:19:07 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 09:23:54 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 09:23:54 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 09:23:54 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 09:23:54 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 09:23:54 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 09:23:54 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 09:23:55 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 09:25:28 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 09:25:28 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 09:25:28 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 09:25:28 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 09:25:28 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 09:25:28 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 09:25:29 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 09:25:35 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 09:25:35 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 09:25:35 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 09:25:35 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 09:25:35 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 09:25:35 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 09:25:36 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 09:25:41 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 09:25:41 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 09:25:41 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 09:25:41 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 09:25:41 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 09:25:41 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 09:25:42 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 09:25:57 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 09:25:57 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 09:25:57 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 09:25:57 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 09:25:57 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 09:25:57 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 09:25:58 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 09:26:12 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 09:26:12 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 09:26:12 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 09:26:12 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 09:26:12 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 09:26:12 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 09:26:13 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 09:29:05 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 09:29:05 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 09:29:05 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 09:29:05 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 09:29:05 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 09:29:05 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 09:29:06 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 09:34:05 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 09:34:05 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 09:34:05 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 09:34:05 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 09:34:05 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 09:34:05 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 09:34:06 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 09:39:05 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 09:39:05 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 09:39:05 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 09:39:05 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 09:39:05 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 09:39:05 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 09:39:06 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 09:43:54 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 09:43:54 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 09:43:54 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 09:43:54 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 09:43:54 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 09:43:54 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 09:43:55 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 09:53:54 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 09:53:54 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 09:53:54 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 09:53:54 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 09:53:54 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 09:53:54 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 09:53:55 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 09:58:57 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 09:58:57 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 09:58:57 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 09:58:57 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 09:58:57 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 09:58:57 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 09:58:58 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 10:07:44 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 10:07:44 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 10:07:44 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 10:07:44 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 10:07:44 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 10:07:44 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 10:07:45 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 10:08:54 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 10:08:54 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 10:08:54 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 10:08:54 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 10:08:54 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 10:08:54 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 10:08:55 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 10:12:39 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 10:12:39 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 10:12:39 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 10:12:39 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 10:12:39 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 10:12:39 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 10:12:40 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 10:13:19 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 10:13:19 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 10:13:19 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 10:13:19 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 10:13:19 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 10:13:19 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 10:13:20 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 10:13:42 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 10:13:42 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 10:13:42 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 10:13:42 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 10:13:42 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 10:13:42 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 10:13:43 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 10:13:54 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 10:13:54 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 10:13:54 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 10:13:54 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 10:13:54 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 10:13:54 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 10:13:55 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 10:18:54 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 10:18:54 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 10:18:54 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 10:18:54 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 10:18:54 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 10:18:54 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 10:18:55 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 10:23:56 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 10:23:56 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 10:23:56 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 10:23:56 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 10:23:56 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 10:23:56 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 10:23:57 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 10:28:57 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 10:28:57 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 10:28:57 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 10:28:57 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 10:28:57 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 10:28:57 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 10:28:58 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 10:33:03 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 10:33:03 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 10:33:03 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 10:33:03 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 10:33:03 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 10:33:03 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 10:33:04 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 10:33:54 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 10:33:54 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 10:33:54 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 10:33:54 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 10:33:54 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 10:33:54 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 10:33:55 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 10:39:11 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 10:39:11 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 10:39:11 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 10:39:11 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 10:39:11 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 10:39:11 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 10:39:12 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 10:43:59 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 10:43:59 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 10:43:59 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 10:43:59 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 10:43:59 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 10:43:59 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 10:44:00 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 10:48:59 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 10:48:59 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 10:48:59 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 10:48:59 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 10:48:59 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 10:48:59 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 10:49:00 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 10:53:55 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 10:53:55 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 10:53:55 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 10:53:55 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 10:53:55 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 10:53:55 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 10:53:56 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 10:58:56 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 10:58:56 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 10:58:56 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 10:58:56 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 10:58:56 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 10:58:56 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 10:58:57 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 11:04:05 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 11:04:05 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 11:04:05 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 11:04:05 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 11:04:05 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 11:04:05 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 11:04:06 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 11:08:54 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 11:08:54 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 11:08:54 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 11:08:54 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 11:08:54 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 11:08:54 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 11:08:55 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 11:13:55 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 11:13:55 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 11:13:55 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 11:13:55 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 11:13:55 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 11:13:55 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 11:13:56 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 11:18:54 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 11:18:54 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 11:18:54 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 11:18:54 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 11:18:54 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 11:18:54 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 11:18:55 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 11:23:54 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 11:23:54 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 11:23:54 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 11:23:54 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 11:23:54 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 11:23:54 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 11:23:55 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 11:29:05 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 11:29:05 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 11:29:05 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 11:29:05 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 11:29:05 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 11:29:05 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 11:29:06 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 11:33:54 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 11:33:54 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 11:33:54 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 11:33:54 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 11:33:54 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 11:33:54 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 11:33:55 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 11:38:55 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 11:38:55 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 11:38:55 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 11:38:55 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 11:38:55 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 11:38:55 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 11:38:56 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 11:44:09 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 11:44:09 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 11:44:09 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 11:44:09 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 11:44:09 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 11:44:09 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 11:44:10 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 11:49:11 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 11:49:11 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 11:49:11 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 11:49:11 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 11:49:11 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 11:49:11 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 11:49:12 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 11:54:06 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 11:54:06 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 11:54:06 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 11:54:06 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 11:54:06 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 11:54:06 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 11:54:07 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 11:59:06 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 11:59:06 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 11:59:06 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 11:59:06 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 11:59:06 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 11:59:06 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 11:59:07 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:04:06 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:04:06 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:04:06 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:04:06 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:04:06 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:04:06 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:04:07 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:08:55 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:08:55 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:08:55 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:08:55 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:08:55 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:08:55 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:08:56 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:14:06 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:14:06 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:14:06 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:14:06 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:14:06 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:14:06 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:14:07 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:18:33 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:18:33 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:18:33 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:18:33 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:18:33 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:18:33 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:18:34 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:18:55 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:18:55 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:18:55 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:18:55 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:18:55 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:18:55 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:18:56 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:19:00 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:19:00 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:19:00 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:19:00 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:19:00 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:19:00 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:19:01 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:19:18 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:19:18 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:19:18 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:19:18 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:19:18 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:19:18 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:19:19 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:19:21 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:19:21 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:19:21 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:19:21 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:19:21 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:19:21 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:19:22 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:19:43 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:19:43 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:19:43 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:19:43 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:19:43 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:19:43 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:19:44 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:20:36 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:20:36 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:20:36 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:20:36 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:20:36 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:20:36 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:20:37 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:21:01 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:21:01 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:21:01 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:21:01 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:21:01 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:21:01 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:21:02 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:21:34 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:21:34 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:21:34 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:21:34 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:21:34 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:21:34 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:21:35 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:22:17 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:22:17 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:22:17 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:22:17 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:22:17 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:22:17 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:22:18 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:22:49 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:22:49 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:22:49 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:22:49 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:22:49 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:22:49 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:22:50 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:23:55 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:23:55 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:23:55 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:23:55 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:23:55 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:23:55 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:23:56 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:24:06 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:24:06 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:24:06 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:24:06 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:24:06 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:24:06 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:24:07 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:24:10 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:24:10 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:24:10 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:24:10 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:24:10 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:24:10 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:24:11 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:24:17 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:24:17 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:24:17 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:24:17 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:24:17 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:24:17 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:24:18 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:24:26 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:24:26 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:24:26 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:24:26 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:24:26 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:24:26 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:24:27 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:24:45 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:24:45 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:24:45 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:24:45 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:24:45 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:24:45 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:24:46 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:25:16 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:25:16 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:25:16 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:25:16 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:25:16 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:25:16 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:25:17 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:26:33 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:26:33 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:26:33 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:26:33 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:26:33 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:26:33 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:26:34 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:27:22 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:27:22 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:27:22 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:27:22 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:27:22 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:27:22 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:27:23 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:27:40 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:27:40 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:27:40 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:27:40 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:27:40 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:27:40 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:27:41 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:28:54 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:28:54 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:28:54 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:28:54 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:28:54 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:28:54 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:28:55 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:29:28 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:29:28 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:29:28 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:29:28 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:29:28 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:29:28 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:29:29 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:29:36 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:29:36 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:29:36 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:29:36 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:29:36 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:29:36 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:29:37 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:29:39 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:29:39 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:29:39 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:29:39 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:29:39 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:29:39 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:29:40 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:29:49 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:29:49 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:29:49 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:29:49 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:29:49 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:29:49 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:29:50 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:29:54 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:29:54 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:29:54 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:29:54 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:29:54 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:29:54 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:29:55 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:30:01 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:30:01 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:30:01 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:30:01 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:30:01 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:30:01 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:30:02 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:30:03 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:30:03 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:30:03 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:30:03 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:30:03 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:30:03 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:30:04 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:30:21 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:30:21 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:30:21 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:30:21 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:30:21 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:30:21 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:30:22 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:30:28 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:30:28 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:30:28 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:30:28 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:30:28 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:30:28 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:30:29 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:30:52 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:30:52 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:30:52 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:30:52 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:30:52 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:30:52 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:30:53 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:31:12 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:31:12 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:31:12 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:31:12 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:31:12 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:31:12 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:31:13 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:31:20 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:31:20 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:31:20 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:31:20 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:31:20 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:31:20 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:31:21 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:31:37 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:31:37 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:31:37 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:31:37 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:31:37 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:31:37 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:31:38 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:31:42 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:31:42 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:31:42 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:31:42 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:31:42 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:31:42 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:31:43 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:31:46 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:31:46 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:31:46 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:31:46 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:31:46 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:31:46 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:31:47 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:32:02 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:32:02 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:32:02 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:32:02 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:32:02 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:32:02 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:32:03 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:34:44 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:34:44 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:34:44 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:34:44 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:34:44 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:34:44 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:34:45 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:39:32 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:39:32 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:39:32 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:39:32 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:39:32 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:39:32 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:39:33 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:44:00 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:44:00 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:44:00 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:44:00 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:44:00 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:44:00 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:44:01 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:44:18 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:44:18 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:44:18 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:44:18 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:44:18 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:44:18 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:44:19 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:44:32 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:44:32 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:44:32 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:44:32 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:44:32 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:44:32 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:44:33 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:44:45 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:44:45 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:44:45 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:44:45 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:44:45 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:44:45 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:44:46 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:45:05 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:45:05 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:45:05 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:45:05 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:45:05 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:45:05 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:45:06 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:45:09 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:45:09 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:45:09 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:45:09 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:45:09 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:45:09 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:45:10 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:45:13 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:45:13 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:45:13 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:45:13 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:45:13 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:45:13 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:45:14 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:45:30 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:45:30 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:45:30 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:45:30 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:45:30 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:45:30 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:45:31 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:45:37 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:45:37 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:45:37 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:45:37 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:45:37 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:45:37 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:45:38 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:46:28 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:46:28 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:46:28 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:46:28 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:46:28 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:46:28 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:46:29 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:48:56 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:48:56 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:48:56 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:48:56 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:48:56 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:48:56 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:48:57 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:49:44 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:49:44 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:49:44 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:49:44 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:49:44 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:49:44 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:49:45 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:49:54 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:49:54 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:49:54 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:49:54 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:49:54 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:49:54 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:49:55 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:50:05 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:50:05 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:50:05 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:50:05 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:50:05 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:50:05 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:50:06 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:51:25 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:51:25 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:51:25 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:51:25 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:51:25 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:51:25 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:51:26 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:51:44 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:51:44 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:51:44 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:51:44 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:51:44 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:51:44 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:51:45 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:51:51 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:51:51 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:51:51 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:51:51 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:51:51 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:51:51 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:51:52 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:52:01 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:52:01 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:52:01 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:52:01 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:52:01 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:52:01 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:52:02 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:52:18 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:52:18 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:52:18 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:52:18 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:52:18 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:52:18 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:52:19 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:54:32 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:54:32 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:54:32 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:54:32 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:54:32 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:54:32 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:54:33 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:54:50 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:54:50 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:54:50 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:54:50 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:54:50 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:54:50 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:54:51 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:54:58 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:54:58 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:54:58 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:54:58 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:54:58 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:54:58 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:54:59 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:55:01 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:55:01 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:55:01 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:55:01 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:55:01 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:55:01 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:55:02 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:55:07 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:55:07 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:55:07 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:55:07 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:55:07 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:55:07 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:55:08 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:55:25 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:55:25 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:55:25 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:55:25 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:55:25 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:55:25 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:55:26 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:55:33 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:55:33 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:55:33 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:55:33 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:55:33 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:55:33 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:55:34 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:55:40 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:55:40 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:55:40 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:55:40 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:55:40 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:55:40 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:55:41 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:55:43 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:55:43 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:55:43 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:55:43 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:55:43 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:55:43 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:55:44 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:55:49 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:55:49 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:55:49 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:55:49 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:55:49 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:55:49 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:55:50 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:56:06 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:56:06 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:56:06 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:56:06 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:56:06 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:56:06 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:56:07 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:56:25 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:56:25 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:56:25 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:56:25 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:56:25 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:56:25 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:56:26 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:56:55 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:56:55 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:56:55 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:56:55 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:56:55 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:56:55 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:56:56 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:57:11 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:57:11 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:57:11 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:57:11 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:57:11 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:57:11 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:57:12 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:57:39 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:57:39 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:57:39 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:57:39 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:57:39 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:57:39 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:57:40 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:58:12 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:58:12 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:58:12 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:58:12 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:58:12 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:58:12 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:58:13 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:58:51 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:58:51 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:58:51 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:58:51 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:58:51 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:58:51 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:58:52 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:59:04 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:59:04 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:59:04 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:59:04 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:59:04 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:59:04 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:59:05 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:59:19 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:59:19 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:59:19 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:59:19 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:59:19 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:59:19 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:59:20 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 12:59:32 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 12:59:32 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 12:59:32 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 12:59:32 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 12:59:32 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 12:59:32 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 12:59:33 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 13:01:26 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 13:01:26 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 13:01:26 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 13:01:26 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 13:01:26 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 13:01:26 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 13:01:27 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 13:01:48 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 13:01:48 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 13:01:48 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 13:01:48 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 13:01:48 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 13:01:48 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 13:01:49 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 13:02:23 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 13:02:23 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 13:02:23 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 13:02:23 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 13:02:23 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 13:02:23 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 13:02:24 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 13:02:31 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 13:02:31 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 13:02:31 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 13:02:31 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 13:02:31 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 13:02:31 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 13:02:32 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 13:02:45 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 13:02:45 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 13:02:45 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 13:02:45 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 13:02:45 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 13:02:45 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 13:02:46 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 13:02:53 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 13:02:53 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 13:02:53 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 13:02:53 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 13:02:53 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 13:02:53 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 13:02:54 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 13:02:56 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 13:02:56 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 13:02:56 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 13:02:56 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 13:02:56 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 13:02:56 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 13:02:57 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 13:03:25 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 13:03:25 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 13:03:25 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 13:03:25 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 13:03:25 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 13:03:25 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 13:03:26 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 13:03:36 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 13:03:36 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 13:03:36 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 13:03:36 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 13:03:36 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 13:03:36 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 13:03:37 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 13:04:24 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 13:04:24 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 13:04:24 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 13:04:24 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 13:04:24 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 13:04:24 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 13:04:25 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 13:04:44 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 13:04:44 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 13:04:44 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 13:04:44 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 13:04:44 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 13:04:44 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 13:04:45 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 13:05:32 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 13:05:32 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 13:05:32 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 13:05:32 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 13:05:32 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 13:05:32 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 13:05:33 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 13:05:36 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 13:05:36 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 13:05:36 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 13:05:36 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 13:05:36 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 13:05:36 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 13:05:37 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 13:05:41 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 13:05:41 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 13:05:41 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 13:05:41 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 13:05:41 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 13:05:41 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 13:05:42 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 13:05:47 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 13:05:47 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 13:05:47 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 13:05:47 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 13:05:47 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 13:05:47 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 13:05:48 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 13:06:44 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 13:06:44 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 13:06:44 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 13:06:44 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 13:06:44 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 13:06:44 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 13:06:45 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 13:07:12 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 13:07:12 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 13:07:12 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 13:07:12 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 13:07:12 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 13:07:12 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 13:07:13 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 13:07:37 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 13:07:37 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 13:07:37 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 13:07:37 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 13:07:37 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 13:07:37 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 13:07:38 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 13:07:50 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 13:07:50 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 13:07:50 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 13:07:50 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 13:07:50 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 13:07:50 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 13:07:51 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 13:08:09 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 13:08:09 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 13:08:09 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 13:08:09 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 13:08:09 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 13:08:09 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 13:08:10 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 13:08:21 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 13:08:21 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 13:08:21 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 13:08:21 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 13:08:21 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 13:08:21 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 13:08:22 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 13:08:36 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 13:08:36 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 13:08:36 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 13:08:36 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 13:08:36 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 13:08:36 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 13:08:37 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 13:08:51 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 13:08:51 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 13:08:51 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 13:08:51 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 13:08:51 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 13:08:51 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 13:08:52 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 13:09:34 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 13:09:34 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 13:09:34 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 13:09:34 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 13:09:34 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 13:09:34 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 13:09:35 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 13:09:58 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 13:09:58 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 13:09:58 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 13:09:58 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 13:09:58 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 13:09:58 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 13:09:59 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 13:10:11 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 13:10:11 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 13:10:11 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 13:10:11 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 13:10:11 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 13:10:11 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 13:10:12 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 13:10:15 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 13:10:15 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 13:10:15 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 13:10:15 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 13:10:15 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 13:10:15 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 13:10:16 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 13:10:34 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 13:10:34 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 13:10:34 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 13:10:34 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 13:10:34 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 13:10:34 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 13:10:35 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 13:10:50 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 13:10:50 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 13:10:50 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 13:10:50 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 13:10:50 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 13:10:50 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 13:10:51 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 13:10:57 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 13:10:57 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 13:10:57 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 13:10:57 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 13:10:57 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 13:10:57 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 13:10:58 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 13:11:06 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 13:11:06 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 13:11:06 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 13:11:06 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 13:11:06 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 13:11:06 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 13:11:07 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 13:11:24 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 13:11:24 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 13:11:24 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 13:11:24 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 13:11:24 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 13:11:24 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 13:11:25 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 13:11:27 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 13:11:27 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 13:11:27 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 13:11:27 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 13:11:27 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 13:11:27 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 13:11:28 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 13:11:32 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 13:11:32 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 13:11:32 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 13:11:32 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 13:11:32 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 13:11:32 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 13:11:33 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 13:11:49 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 13:11:49 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 13:11:49 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 13:11:49 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 13:11:49 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 13:11:49 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 13:11:50 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 13:11:54 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 13:11:54 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 13:11:54 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 13:11:54 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 13:11:54 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 13:11:54 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 13:11:55 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 13:13:27 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 13:13:27 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 13:13:27 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 13:13:27 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 13:13:27 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 13:13:27 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 13:13:28 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 13:13:33 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 13:13:33 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 13:13:33 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 13:13:33 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 13:13:33 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 13:13:33 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 13:13:34 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 13:13:45 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 13:13:45 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 13:13:45 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 13:13:45 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 13:13:45 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 13:13:45 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 13:13:46 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 13:13:55 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 13:13:55 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 13:13:55 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 13:13:55 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 13:13:55 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 13:13:55 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 13:13:56 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 13:14:29 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 13:14:29 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 13:14:29 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 13:14:29 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 13:14:29 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 13:14:29 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 13:14:30 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 13:14:36 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 13:14:36 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 13:14:36 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 13:14:36 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 13:14:36 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 13:14:36 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 13:14:37 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 13:15:19 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 13:15:19 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 13:15:19 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 13:15:19 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 13:15:19 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 13:15:19 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 13:15:20 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 13:15:39 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 13:15:39 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 13:15:39 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 13:15:39 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 13:15:39 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 13:15:39 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 13:15:40 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 13:16:06 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 13:16:06 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 13:16:06 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 13:16:06 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 13:16:06 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 13:16:06 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 13:16:07 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 13:16:26 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 13:16:26 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 13:16:26 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 13:16:26 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 13:16:26 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 13:16:26 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 13:16:27 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 13:16:49 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 13:16:49 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 13:16:49 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 13:16:49 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 13:16:49 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 13:16:49 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 13:16:50 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 13:17:05 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 13:17:05 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 13:17:05 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 13:17:05 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 13:17:05 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 13:17:05 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 13:17:06 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 13:17:21 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 13:17:21 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 13:17:21 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 13:17:21 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 13:17:21 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 13:17:21 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 13:17:22 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 13:17:52 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 13:17:52 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 13:17:52 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 13:17:52 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 13:17:52 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 13:17:52 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 13:17:53 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 13:18:40 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 13:18:40 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 13:18:40 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 13:18:40 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 13:18:40 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 13:18:40 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 13:18:42 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 13:18:57 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 13:18:57 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 13:18:57 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 13:18:57 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 13:18:57 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 13:18:57 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 13:18:58 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 13:19:13 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 13:19:13 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 13:19:13 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 13:19:13 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 13:19:13 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 13:19:13 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 13:19:14 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 13:19:17 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 13:19:17 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 13:19:17 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 13:19:17 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 13:19:17 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 13:19:17 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 13:19:18 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 13:19:30 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 13:19:30 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 13:19:30 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 13:19:30 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 13:19:30 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 13:19:30 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 13:19:31 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 13:19:41 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 13:19:41 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 13:19:41 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 13:19:41 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 13:19:41 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 13:19:41 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 13:19:42 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 13:19:47 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 13:19:47 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 13:19:47 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 13:19:47 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 13:19:47 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 13:19:47 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 13:19:48 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 13:20:03 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 13:20:03 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 13:20:03 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 13:20:03 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 13:20:03 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 13:20:03 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 13:20:04 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 13:20:23 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 13:20:23 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 13:20:23 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 13:20:23 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 13:20:23 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 13:20:23 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 13:20:24 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 13:20:28 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 13:20:28 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 13:20:28 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 13:20:28 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 13:20:28 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 13:20:28 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 13:20:29 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 13:20:44 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 13:20:44 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 13:20:44 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 13:20:44 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 13:20:44 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 13:20:44 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 13:20:46 | Oct 07, 2023 ]:  Starting new listener cycle
+[ WARNING ][ betterLogging.py:18 ][ 13:20:48 | Oct 07, 2023 ]:  Could not request results; recognition connection failed: [Errno 11001] getaddrinfo failed
+[ INFO ][ betterLogging.py:17 ][ 13:20:48 | Oct 07, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 13:20:48 | Oct 07, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 13:20:48 | Oct 07, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 13:20:48 | Oct 07, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 13:20:48 | Oct 07, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 13:20:49 | Oct 07, 2023 ]:  Starting new listener cycle

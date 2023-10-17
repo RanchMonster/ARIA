@@ -1,0 +1,1445 @@
+[ INFO ][ betterLogging.py:17 ][ 21:01:12 | Sep 11, 2023 ]:  Configuring Azure speech engine
+[ INFO ][ betterLogging.py:17 ][ 21:01:12 | Sep 11, 2023 ]:  Azure speech engine configured
+[ INFO ][ betterLogging.py:17 ][ 21:01:13 | Sep 11, 2023 ]:  Loading .env variables
+[ INFO ][ betterLogging.py:17 ][ 21:01:13 | Sep 11, 2023 ]:  .env variables loaded
+[ INFO ][ betterLogging.py:17 ][ 21:01:13 | Sep 11, 2023 ]:  Initilizing completion loop
+[ INFO ][ betterLogging.py:17 ][ 21:01:13 | Sep 11, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 21:01:13 | Sep 11, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 21:01:13 | Sep 11, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 21:01:13 | Sep 11, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 21:01:15 | Sep 11, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 21:01:27 | Sep 11, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 21:01:27 | Sep 11, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 21:01:27 | Sep 11, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 21:01:27 | Sep 11, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 21:01:27 | Sep 11, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 21:01:27 | Sep 11, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 21:01:28 | Sep 11, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 21:01:39 | Sep 11, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 21:01:39 | Sep 11, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 21:01:39 | Sep 11, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 21:01:39 | Sep 11, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 21:01:39 | Sep 11, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 21:01:39 | Sep 11, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 21:01:40 | Sep 11, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 21:01:52 | Sep 11, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 21:01:52 | Sep 11, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 21:01:52 | Sep 11, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 21:01:52 | Sep 11, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 21:01:52 | Sep 11, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 21:01:52 | Sep 11, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 21:01:53 | Sep 11, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 21:01:57 | Sep 11, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 21:01:57 | Sep 11, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 21:01:57 | Sep 11, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 21:01:57 | Sep 11, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 21:01:57 | Sep 11, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 21:01:57 | Sep 11, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 21:01:58 | Sep 11, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 21:04:03 | Sep 11, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 21:04:03 | Sep 11, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 21:04:03 | Sep 11, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 21:04:03 | Sep 11, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 21:04:03 | Sep 11, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 21:04:03 | Sep 11, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 21:04:04 | Sep 11, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 21:04:17 | Sep 11, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 21:04:17 | Sep 11, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 21:04:17 | Sep 11, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 21:04:17 | Sep 11, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 21:04:17 | Sep 11, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 21:04:17 | Sep 11, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 21:04:18 | Sep 11, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 21:04:26 | Sep 11, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 21:04:26 | Sep 11, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 21:04:26 | Sep 11, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 21:04:26 | Sep 11, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 21:04:26 | Sep 11, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 21:04:26 | Sep 11, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 21:04:27 | Sep 11, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 21:04:34 | Sep 11, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 21:04:34 | Sep 11, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 21:04:34 | Sep 11, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 21:04:34 | Sep 11, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 21:04:34 | Sep 11, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 21:04:34 | Sep 11, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 21:04:35 | Sep 11, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 21:04:39 | Sep 11, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 21:04:39 | Sep 11, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 21:04:39 | Sep 11, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 21:04:39 | Sep 11, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 21:04:39 | Sep 11, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 21:04:39 | Sep 11, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 21:04:40 | Sep 11, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 21:04:46 | Sep 11, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 21:04:46 | Sep 11, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 21:04:46 | Sep 11, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 21:04:46 | Sep 11, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 21:04:46 | Sep 11, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 21:04:46 | Sep 11, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 21:04:48 | Sep 11, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 21:04:51 | Sep 11, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 21:04:51 | Sep 11, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 21:04:51 | Sep 11, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 21:04:51 | Sep 11, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 21:04:51 | Sep 11, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 21:04:51 | Sep 11, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 21:04:52 | Sep 11, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 21:04:58 | Sep 11, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 21:04:58 | Sep 11, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 21:04:58 | Sep 11, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 21:04:58 | Sep 11, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 21:04:58 | Sep 11, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 21:04:58 | Sep 11, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 21:04:59 | Sep 11, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 21:05:05 | Sep 11, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 21:05:05 | Sep 11, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 21:05:05 | Sep 11, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 21:05:05 | Sep 11, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 21:05:05 | Sep 11, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 21:05:05 | Sep 11, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 21:05:06 | Sep 11, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 21:05:08 | Sep 11, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 21:05:08 | Sep 11, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 21:05:08 | Sep 11, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 21:05:08 | Sep 11, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 21:05:08 | Sep 11, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 21:05:08 | Sep 11, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 21:05:09 | Sep 11, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 21:05:16 | Sep 11, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 21:05:16 | Sep 11, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 21:05:16 | Sep 11, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 21:05:16 | Sep 11, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 21:05:16 | Sep 11, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 21:05:16 | Sep 11, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 21:05:17 | Sep 11, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 21:05:26 | Sep 11, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 21:05:26 | Sep 11, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 21:05:26 | Sep 11, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 21:05:26 | Sep 11, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 21:05:26 | Sep 11, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 21:05:26 | Sep 11, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 21:05:27 | Sep 11, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 21:06:05 | Sep 11, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 21:06:05 | Sep 11, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 21:06:05 | Sep 11, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 21:06:05 | Sep 11, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 21:06:05 | Sep 11, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 21:06:05 | Sep 11, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 21:06:06 | Sep 11, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 21:06:15 | Sep 11, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 21:06:15 | Sep 11, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 21:06:15 | Sep 11, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 21:06:15 | Sep 11, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 21:06:15 | Sep 11, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 21:06:15 | Sep 11, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 21:06:16 | Sep 11, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 21:11:27 | Sep 11, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 21:11:27 | Sep 11, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 21:11:27 | Sep 11, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 21:11:27 | Sep 11, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 21:11:27 | Sep 11, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 21:11:27 | Sep 11, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 21:11:28 | Sep 11, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 21:14:27 | Sep 11, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 21:14:27 | Sep 11, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 21:14:27 | Sep 11, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 21:14:27 | Sep 11, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 21:14:27 | Sep 11, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 21:14:27 | Sep 11, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 21:14:28 | Sep 11, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 21:16:08 | Sep 11, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 21:16:08 | Sep 11, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 21:16:08 | Sep 11, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 21:16:08 | Sep 11, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 21:16:08 | Sep 11, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 21:16:08 | Sep 11, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 21:16:09 | Sep 11, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 21:23:55 | Sep 11, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 21:23:55 | Sep 11, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 21:23:55 | Sep 11, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 21:23:55 | Sep 11, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 21:23:55 | Sep 11, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 21:23:55 | Sep 11, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 21:23:56 | Sep 11, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 21:33:09 | Sep 11, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 21:33:09 | Sep 11, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 21:33:09 | Sep 11, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 21:33:09 | Sep 11, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 21:33:09 | Sep 11, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 21:33:09 | Sep 11, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 21:33:10 | Sep 11, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 21:33:19 | Sep 11, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 21:33:19 | Sep 11, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 21:33:19 | Sep 11, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 21:33:19 | Sep 11, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 21:33:19 | Sep 11, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 21:33:19 | Sep 11, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 21:33:20 | Sep 11, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 21:33:28 | Sep 11, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 21:33:28 | Sep 11, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 21:33:28 | Sep 11, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 21:33:28 | Sep 11, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 21:33:28 | Sep 11, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 21:33:28 | Sep 11, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 21:33:29 | Sep 11, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 21:33:37 | Sep 11, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 21:33:37 | Sep 11, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 21:33:37 | Sep 11, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 21:33:37 | Sep 11, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 21:33:37 | Sep 11, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 21:33:37 | Sep 11, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 21:33:38 | Sep 11, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 21:33:41 | Sep 11, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 21:33:41 | Sep 11, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 21:33:41 | Sep 11, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 21:33:41 | Sep 11, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 21:33:41 | Sep 11, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 21:33:41 | Sep 11, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 21:33:42 | Sep 11, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 21:33:46 | Sep 11, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 21:33:46 | Sep 11, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 21:33:46 | Sep 11, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 21:33:46 | Sep 11, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 21:33:46 | Sep 11, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 21:33:46 | Sep 11, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 21:33:47 | Sep 11, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 21:33:56 | Sep 11, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 21:33:56 | Sep 11, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 21:33:56 | Sep 11, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 21:33:56 | Sep 11, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 21:33:56 | Sep 11, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 21:33:56 | Sep 11, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 21:33:57 | Sep 11, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 21:34:03 | Sep 11, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 21:34:03 | Sep 11, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 21:34:03 | Sep 11, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 21:34:03 | Sep 11, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 21:34:03 | Sep 11, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 21:34:03 | Sep 11, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 21:34:04 | Sep 11, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 21:34:16 | Sep 11, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 21:34:16 | Sep 11, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 21:34:16 | Sep 11, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 21:34:16 | Sep 11, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 21:34:16 | Sep 11, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 21:34:16 | Sep 11, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 21:34:17 | Sep 11, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 21:34:46 | Sep 11, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 21:34:46 | Sep 11, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 21:34:46 | Sep 11, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 21:34:46 | Sep 11, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 21:34:46 | Sep 11, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 21:34:46 | Sep 11, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 21:34:47 | Sep 11, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 21:35:27 | Sep 11, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 21:35:27 | Sep 11, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 21:35:27 | Sep 11, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 21:35:27 | Sep 11, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 21:35:27 | Sep 11, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 21:35:27 | Sep 11, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 21:35:29 | Sep 11, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 21:35:32 | Sep 11, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 21:35:32 | Sep 11, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 21:35:32 | Sep 11, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 21:35:32 | Sep 11, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 21:35:32 | Sep 11, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 21:35:32 | Sep 11, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 21:35:33 | Sep 11, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 22:51:58 | Sep 11, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 22:51:58 | Sep 11, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 22:51:58 | Sep 11, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 22:51:58 | Sep 11, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 22:51:58 | Sep 11, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 22:51:58 | Sep 11, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 22:51:59 | Sep 11, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 22:58:23 | Sep 11, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 22:58:23 | Sep 11, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 22:58:23 | Sep 11, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 22:58:23 | Sep 11, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 22:58:23 | Sep 11, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 22:58:23 | Sep 11, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 22:58:24 | Sep 11, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 22:58:32 | Sep 11, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 22:58:32 | Sep 11, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 22:58:32 | Sep 11, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 22:58:32 | Sep 11, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 22:58:32 | Sep 11, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 22:58:32 | Sep 11, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 22:58:33 | Sep 11, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 22:58:48 | Sep 11, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 22:58:48 | Sep 11, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 22:58:48 | Sep 11, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 22:58:48 | Sep 11, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 22:58:48 | Sep 11, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 22:58:48 | Sep 11, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 22:58:49 | Sep 11, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 22:59:27 | Sep 11, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 22:59:27 | Sep 11, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 22:59:27 | Sep 11, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 22:59:27 | Sep 11, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 22:59:27 | Sep 11, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 22:59:27 | Sep 11, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 22:59:28 | Sep 11, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 23:08:40 | Sep 11, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 23:08:40 | Sep 11, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 23:08:40 | Sep 11, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 23:08:40 | Sep 11, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 23:08:40 | Sep 11, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 23:08:40 | Sep 11, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 23:08:41 | Sep 11, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 23:08:53 | Sep 11, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 23:08:53 | Sep 11, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 23:08:53 | Sep 11, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 23:08:53 | Sep 11, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 23:08:53 | Sep 11, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 23:08:53 | Sep 11, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 23:08:54 | Sep 11, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 23:08:59 | Sep 11, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 23:08:59 | Sep 11, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 23:08:59 | Sep 11, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 23:08:59 | Sep 11, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 23:08:59 | Sep 11, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 23:08:59 | Sep 11, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 23:09:01 | Sep 11, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 23:09:06 | Sep 11, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 23:09:06 | Sep 11, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 23:09:06 | Sep 11, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 23:09:06 | Sep 11, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 23:09:06 | Sep 11, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 23:09:06 | Sep 11, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 23:09:07 | Sep 11, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 23:09:13 | Sep 11, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 23:09:13 | Sep 11, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 23:09:13 | Sep 11, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 23:09:13 | Sep 11, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 23:09:13 | Sep 11, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 23:09:13 | Sep 11, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 23:09:14 | Sep 11, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 23:09:23 | Sep 11, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 23:09:23 | Sep 11, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 23:09:23 | Sep 11, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 23:09:23 | Sep 11, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 23:09:23 | Sep 11, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 23:09:23 | Sep 11, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 23:09:24 | Sep 11, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 23:09:33 | Sep 11, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 23:09:33 | Sep 11, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 23:09:33 | Sep 11, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 23:09:33 | Sep 11, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 23:09:33 | Sep 11, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 23:09:33 | Sep 11, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 23:09:34 | Sep 11, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 23:09:40 | Sep 11, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 23:09:40 | Sep 11, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 23:09:40 | Sep 11, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 23:09:40 | Sep 11, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 23:09:40 | Sep 11, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 23:09:40 | Sep 11, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 23:09:41 | Sep 11, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 23:09:47 | Sep 11, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 23:09:47 | Sep 11, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 23:09:47 | Sep 11, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 23:09:47 | Sep 11, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 23:09:47 | Sep 11, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 23:09:47 | Sep 11, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 23:09:48 | Sep 11, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 23:09:54 | Sep 11, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 23:09:54 | Sep 11, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 23:09:54 | Sep 11, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 23:09:54 | Sep 11, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 23:09:54 | Sep 11, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 23:09:54 | Sep 11, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 23:09:55 | Sep 11, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 23:10:01 | Sep 11, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 23:10:01 | Sep 11, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 23:10:01 | Sep 11, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 23:10:01 | Sep 11, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 23:10:01 | Sep 11, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 23:10:01 | Sep 11, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 23:10:02 | Sep 11, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 23:10:08 | Sep 11, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 23:10:08 | Sep 11, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 23:10:08 | Sep 11, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 23:10:08 | Sep 11, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 23:10:08 | Sep 11, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 23:10:08 | Sep 11, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 23:10:09 | Sep 11, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 23:10:15 | Sep 11, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 23:10:15 | Sep 11, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 23:10:15 | Sep 11, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 23:10:15 | Sep 11, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 23:10:15 | Sep 11, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 23:10:15 | Sep 11, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 23:10:16 | Sep 11, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 23:10:22 | Sep 11, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 23:10:22 | Sep 11, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 23:10:22 | Sep 11, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 23:10:22 | Sep 11, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 23:10:22 | Sep 11, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 23:10:22 | Sep 11, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 23:10:23 | Sep 11, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 23:10:29 | Sep 11, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 23:10:29 | Sep 11, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 23:10:29 | Sep 11, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 23:10:29 | Sep 11, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 23:10:29 | Sep 11, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 23:10:29 | Sep 11, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 23:10:30 | Sep 11, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 23:10:36 | Sep 11, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 23:10:36 | Sep 11, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 23:10:36 | Sep 11, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 23:10:36 | Sep 11, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 23:10:36 | Sep 11, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 23:10:36 | Sep 11, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 23:10:37 | Sep 11, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 23:23:10 | Sep 11, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 23:23:10 | Sep 11, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 23:23:10 | Sep 11, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 23:23:10 | Sep 11, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 23:23:10 | Sep 11, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 23:23:10 | Sep 11, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 23:23:11 | Sep 11, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 23:24:18 | Sep 11, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 23:24:18 | Sep 11, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 23:24:18 | Sep 11, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 23:24:18 | Sep 11, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 23:24:18 | Sep 11, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 23:24:18 | Sep 11, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 23:24:19 | Sep 11, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 23:30:45 | Sep 11, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 23:30:45 | Sep 11, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 23:30:45 | Sep 11, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 23:30:45 | Sep 11, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 23:30:45 | Sep 11, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 23:30:45 | Sep 11, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 23:30:46 | Sep 11, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 23:49:34 | Sep 11, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 23:49:34 | Sep 11, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 23:49:34 | Sep 11, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 23:49:34 | Sep 11, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 23:49:34 | Sep 11, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 23:49:34 | Sep 11, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 23:49:35 | Sep 11, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 00:00:42 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 00:00:42 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 00:00:42 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 00:00:42 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 00:00:42 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 00:00:42 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 00:00:43 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 00:00:50 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 00:00:50 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 00:00:50 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 00:00:50 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 00:00:50 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 00:00:50 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 00:00:51 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 00:00:57 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 00:00:57 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 00:00:57 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 00:00:57 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 00:00:57 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 00:00:57 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 00:00:58 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 00:35:11 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 00:35:11 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 00:35:11 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 00:35:11 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 00:35:11 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 00:35:11 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 00:35:12 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 00:35:23 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 00:35:23 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 00:35:23 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 00:35:23 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 00:35:23 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 00:35:23 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 00:35:25 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 01:22:47 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 01:22:47 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 01:22:47 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 01:22:47 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 01:22:47 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 01:22:47 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 01:22:48 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 01:24:30 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 01:24:30 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 01:24:30 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 01:24:30 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 01:24:30 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 01:24:30 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 01:24:31 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 01:24:45 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 01:24:45 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 01:24:45 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 01:24:45 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 01:24:45 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 01:24:45 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 01:24:46 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 01:25:38 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 01:25:38 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 01:25:38 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 01:25:38 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 01:25:38 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 01:25:38 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 01:25:39 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 01:30:23 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 01:30:23 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 01:30:23 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 01:30:23 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 01:30:23 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 01:30:23 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 01:30:24 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 01:31:47 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 01:31:47 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 01:31:47 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 01:31:47 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 01:31:47 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 01:31:47 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 01:31:48 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 01:32:04 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 01:32:04 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 01:32:04 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 01:32:04 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 01:32:04 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 01:32:04 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 01:32:05 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 02:07:48 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 02:07:48 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 02:07:48 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 02:07:48 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 02:07:48 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 02:07:48 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 02:07:49 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 02:08:53 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 02:08:53 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 02:08:53 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 02:08:53 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 02:08:53 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 02:08:53 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 02:08:54 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 02:14:48 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 02:14:48 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 02:14:48 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 02:14:48 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 02:14:48 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 02:14:48 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 02:14:49 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 02:15:08 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 02:15:08 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 02:15:08 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 02:15:08 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 02:15:08 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 02:15:08 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 02:15:09 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 02:15:40 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 02:15:40 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 02:15:40 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 02:15:40 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 02:15:40 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 02:15:40 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 02:15:41 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 02:15:44 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 02:15:44 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 02:15:44 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 02:15:44 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 02:15:44 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 02:15:44 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 02:15:46 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 02:16:28 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 02:16:28 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 02:16:28 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 02:16:28 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 02:16:28 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 02:16:28 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 02:16:29 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 02:16:33 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 02:16:33 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 02:16:33 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 02:16:33 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 02:16:33 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 02:16:33 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 02:16:34 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 02:17:16 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 02:17:16 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 02:17:16 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 02:17:16 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 02:17:16 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 02:17:16 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 02:17:17 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 02:18:51 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 02:18:51 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 02:18:51 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 02:18:51 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 02:18:51 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 02:18:51 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 02:18:52 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 02:20:57 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 02:20:57 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 02:20:57 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 02:20:57 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 02:20:57 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 02:20:57 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 02:20:58 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 02:21:44 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 02:21:44 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 02:21:44 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 02:21:44 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 02:21:44 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 02:21:44 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 02:21:45 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 02:25:49 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 02:25:49 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 02:25:49 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 02:25:49 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 02:25:49 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 02:25:49 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 02:25:50 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 02:26:03 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 02:26:03 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 02:26:03 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 02:26:03 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 02:26:03 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 02:26:03 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 02:26:04 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 03:18:29 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 03:18:29 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 03:18:29 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 03:18:29 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 03:18:29 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 03:18:29 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 03:18:30 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 03:57:23 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 03:57:23 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 03:57:23 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 03:57:23 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 03:57:23 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 03:57:23 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 03:57:24 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 05:00:17 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 05:00:17 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 05:00:17 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 05:00:17 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 05:00:17 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 05:00:17 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 05:00:18 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 05:00:22 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 05:00:22 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 05:00:22 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 05:00:22 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 05:00:22 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 05:00:22 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 05:00:23 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 05:05:32 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 05:05:32 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 05:05:32 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 05:05:32 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 05:05:32 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 05:05:32 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 05:05:33 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 05:05:45 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 05:05:45 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 05:05:45 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 05:05:45 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 05:05:45 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 05:05:45 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 05:05:46 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 05:05:55 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 05:05:55 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 05:05:55 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 05:05:55 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 05:05:55 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 05:05:55 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 05:05:56 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 05:06:06 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 05:06:06 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 05:06:06 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 05:06:06 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 05:06:06 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 05:06:06 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 05:06:07 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 05:11:03 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 05:11:03 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 05:11:03 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 05:11:03 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 05:11:03 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 05:11:03 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 05:11:04 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 05:11:14 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 05:11:14 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 05:11:14 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 05:11:14 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 05:11:14 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 05:11:14 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 05:11:15 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 05:11:24 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 05:11:24 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 05:11:24 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 05:11:24 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 05:11:24 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 05:11:24 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 05:11:25 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 05:30:05 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 05:30:05 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 05:30:05 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 05:30:05 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 05:30:05 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 05:30:05 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 05:30:06 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 05:30:13 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 05:30:13 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 05:30:13 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 05:30:13 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 05:30:13 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 05:30:13 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 05:30:14 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 05:30:17 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 05:30:17 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 05:30:17 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 05:30:17 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 05:30:17 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 05:30:17 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 05:30:19 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 05:32:23 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 05:32:23 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 05:32:23 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 05:32:23 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 05:32:23 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 05:32:23 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 05:32:24 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 06:17:35 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 06:17:35 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 06:17:35 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 06:17:35 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 06:17:35 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 06:17:35 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 06:17:36 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 06:17:38 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 06:17:38 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 06:17:38 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 06:17:38 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 06:17:38 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 06:17:38 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 06:17:39 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 06:17:44 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 06:17:44 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 06:17:44 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 06:17:44 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 06:17:44 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 06:17:44 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 06:17:45 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 06:17:50 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 06:17:50 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 06:17:50 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 06:17:50 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 06:17:50 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 06:17:50 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 06:17:51 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 06:18:06 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 06:18:06 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 06:18:06 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 06:18:06 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 06:18:06 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 06:18:06 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 06:18:07 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 06:18:14 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 06:18:14 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 06:18:14 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 06:18:14 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 06:18:14 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 06:18:14 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 06:18:15 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 06:18:24 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 06:18:24 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 06:18:24 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 06:18:24 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 06:18:24 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 06:18:24 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 06:18:25 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 06:18:48 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 06:18:48 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 06:18:48 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 06:18:48 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 06:18:48 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 06:18:48 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 06:18:49 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 06:18:55 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 06:18:55 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 06:18:55 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 06:18:55 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 06:18:55 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 06:18:55 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 06:18:56 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 06:25:16 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 06:25:16 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 06:25:16 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 06:25:16 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 06:25:16 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 06:25:16 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 06:25:18 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 06:25:23 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 06:25:23 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 06:25:23 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 06:25:23 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 06:25:23 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 06:25:23 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 06:25:24 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 06:25:28 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 06:25:28 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 06:25:28 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 06:25:28 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 06:25:28 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 06:25:28 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 06:25:29 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 06:25:35 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 06:25:35 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 06:25:35 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 06:25:35 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 06:25:35 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 06:25:35 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 06:25:36 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 06:25:44 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 06:25:44 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 06:25:44 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 06:25:44 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 06:25:44 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 06:25:44 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 06:25:45 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 06:26:18 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 06:26:18 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 06:26:18 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 06:26:18 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 06:26:18 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 06:26:18 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 06:26:19 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 06:37:29 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 06:37:29 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 06:37:29 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 06:37:29 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 06:37:29 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 06:37:29 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 06:37:30 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 06:38:18 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 06:38:18 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 06:38:18 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 06:38:18 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 06:38:18 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 06:38:18 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 06:38:19 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 06:38:25 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 06:38:25 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 06:38:25 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 06:38:25 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 06:38:25 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 06:38:25 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 06:38:26 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 06:38:38 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 06:38:38 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 06:38:38 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 06:38:38 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 06:38:38 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 06:38:38 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 06:38:39 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 06:38:46 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 06:38:46 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 06:38:46 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 06:38:46 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 06:38:46 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 06:38:46 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 06:38:47 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 06:38:51 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 06:38:51 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 06:38:51 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 06:38:51 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 06:38:51 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 06:38:51 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 06:38:52 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 06:39:27 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 06:39:27 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 06:39:27 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 06:39:27 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 06:39:27 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 06:39:27 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 06:39:28 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 06:39:35 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 06:39:35 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 06:39:35 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 06:39:35 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 06:39:35 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 06:39:35 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 06:39:36 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 06:40:04 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 06:40:04 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 06:40:04 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 06:40:04 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 06:40:04 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 06:40:04 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 06:40:05 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 06:40:08 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 06:40:08 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 06:40:08 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 06:40:08 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 06:40:08 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 06:40:08 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 06:40:09 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 06:40:13 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 06:40:13 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 06:40:13 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 06:40:13 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 06:40:13 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 06:40:13 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 06:40:14 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 06:40:21 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 06:40:21 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 06:40:21 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 06:40:21 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 06:40:21 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 06:40:21 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 06:40:22 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 06:40:28 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 06:40:28 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 06:40:28 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 06:40:28 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 06:40:28 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 06:40:28 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 06:40:29 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 06:40:36 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 06:40:36 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 06:40:36 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 06:40:36 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 06:40:36 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 06:40:36 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 06:40:37 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 06:40:40 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 06:40:40 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 06:40:40 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 06:40:40 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 06:40:40 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 06:40:40 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 06:40:41 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 06:40:53 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 06:40:53 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 06:40:53 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 06:40:53 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 06:40:53 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 06:40:53 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 06:40:54 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 06:40:59 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 06:40:59 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 06:40:59 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 06:40:59 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 06:40:59 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 06:40:59 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 06:41:00 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 06:42:27 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 06:42:27 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 06:42:27 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 06:42:27 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 06:42:27 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 06:42:27 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 06:42:28 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 06:46:03 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 06:46:03 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 06:46:03 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 06:46:03 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 06:46:03 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 06:46:03 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 06:46:04 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 06:46:15 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 06:46:15 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 06:46:15 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 06:46:15 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 06:46:15 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 06:46:15 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 06:46:16 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 06:54:50 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 06:54:50 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 06:54:50 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 06:54:50 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 06:54:50 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 06:54:50 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 06:54:51 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 06:55:32 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 06:55:32 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 06:55:32 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 06:55:32 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 06:55:32 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 06:55:32 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 06:55:33 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 06:55:55 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 06:55:55 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 06:55:55 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 06:55:55 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 06:55:55 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 06:55:55 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 06:55:56 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 06:56:32 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 06:56:32 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 06:56:32 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 06:56:32 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 06:56:32 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 06:56:32 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 06:56:33 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 06:57:24 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 06:57:24 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 06:57:24 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 06:57:24 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 06:57:24 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 06:57:24 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 06:57:25 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 06:57:56 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 06:57:56 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 06:57:56 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 06:57:56 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 06:57:56 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 06:57:56 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 06:57:57 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 06:58:01 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 06:58:01 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 06:58:01 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 06:58:01 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 06:58:01 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 06:58:01 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 06:58:02 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 06:58:47 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 06:58:47 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 06:58:47 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 06:58:47 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 06:58:47 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 06:58:47 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 06:58:48 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 06:59:11 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 06:59:11 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 06:59:11 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 06:59:11 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 06:59:11 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 06:59:11 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 06:59:12 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 06:59:17 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 06:59:17 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 06:59:17 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 06:59:17 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 06:59:17 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 06:59:17 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 06:59:18 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 06:59:24 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 06:59:24 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 06:59:24 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 06:59:24 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 06:59:24 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 06:59:24 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 06:59:25 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 06:59:38 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 06:59:38 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 06:59:38 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 06:59:38 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 06:59:38 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 06:59:38 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 06:59:39 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 07:01:54 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 07:01:54 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 07:01:54 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 07:01:54 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 07:01:54 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 07:01:54 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 07:01:55 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 07:03:14 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 07:03:14 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 07:03:14 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 07:03:14 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 07:03:14 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 07:03:14 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 07:03:15 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 07:03:55 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 07:03:55 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 07:03:55 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 07:03:55 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 07:03:55 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 07:03:55 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 07:03:56 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 07:04:03 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 07:04:03 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 07:04:03 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 07:04:03 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 07:04:03 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 07:04:03 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 07:04:04 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 07:04:08 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 07:04:08 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 07:04:08 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 07:04:08 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 07:04:08 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 07:04:08 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 07:04:09 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 07:04:37 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 07:04:37 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 07:04:37 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 07:04:37 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 07:04:37 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 07:04:37 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 07:04:38 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 07:05:13 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 07:05:13 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 07:05:13 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 07:05:13 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 07:05:13 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 07:05:13 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 07:05:14 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 07:05:23 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 07:05:23 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 07:05:23 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 07:05:23 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 07:05:23 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 07:05:23 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 07:05:24 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 07:05:28 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 07:05:28 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 07:05:28 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 07:05:28 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 07:05:28 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 07:05:28 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 07:05:29 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 07:05:33 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 07:05:33 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 07:05:33 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 07:05:33 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 07:05:33 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 07:05:33 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 07:05:34 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 07:05:37 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 07:05:37 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 07:05:37 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 07:05:37 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 07:05:37 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 07:05:37 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 07:05:38 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 07:05:52 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 07:05:52 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 07:05:52 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 07:05:52 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 07:05:52 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 07:05:52 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 07:05:53 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 07:06:13 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 07:06:13 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 07:06:13 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 07:06:13 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 07:06:13 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 07:06:13 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 07:06:14 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 07:06:25 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 07:06:25 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 07:06:25 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 07:06:25 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 07:06:25 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 07:06:25 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 07:06:26 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 07:06:40 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 07:06:40 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 07:06:40 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 07:06:40 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 07:06:40 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 07:06:40 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 07:06:41 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 07:06:51 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 07:06:51 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 07:06:51 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 07:06:51 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 07:06:51 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 07:06:51 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 07:06:52 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 07:07:30 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 07:07:30 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 07:07:30 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 07:07:30 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 07:07:30 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 07:07:30 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 07:07:31 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 07:07:37 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 07:07:37 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 07:07:37 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 07:07:37 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 07:07:37 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 07:07:37 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 07:07:38 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 07:07:50 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 07:07:51 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 07:07:51 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 07:07:51 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 07:07:51 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 07:07:51 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 07:07:52 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 07:08:34 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 07:08:34 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 07:08:34 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 07:08:34 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 07:08:34 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 07:08:34 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 07:08:35 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 07:08:41 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 07:08:41 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 07:08:41 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 07:08:41 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 07:08:41 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 07:08:41 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 07:08:42 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 07:08:48 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 07:08:48 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 07:08:48 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 07:08:48 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 07:08:48 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 07:08:48 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 07:08:49 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 07:08:56 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 07:08:56 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 07:08:56 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 07:08:56 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 07:08:56 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 07:08:56 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 07:08:57 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 07:09:09 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 07:09:09 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 07:09:09 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 07:09:09 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 07:09:09 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 07:09:09 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 07:09:10 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 07:09:25 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 07:09:25 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 07:09:25 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 07:09:25 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 07:09:25 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 07:09:25 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 07:09:26 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 07:09:29 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 07:09:29 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 07:09:29 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 07:09:29 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 07:09:29 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 07:09:29 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 07:09:30 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 07:09:49 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 07:09:49 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 07:09:49 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 07:09:49 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 07:09:49 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 07:09:49 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 07:09:50 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 07:09:59 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 07:09:59 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 07:09:59 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 07:09:59 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 07:09:59 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 07:09:59 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 07:10:00 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 07:10:03 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 07:10:03 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 07:10:03 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 07:10:03 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 07:10:03 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 07:10:03 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 07:10:04 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 07:10:06 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 07:10:06 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 07:10:06 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 07:10:06 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 07:10:06 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 07:10:06 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 07:10:07 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 07:10:10 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 07:10:10 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 07:10:10 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 07:10:10 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 07:10:10 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 07:10:10 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 07:10:11 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 07:10:15 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 07:10:15 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 07:10:15 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 07:10:15 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 07:10:15 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 07:10:15 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 07:10:17 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 07:10:20 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 07:10:20 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 07:10:20 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 07:10:20 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 07:10:20 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 07:10:20 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 07:10:21 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 07:10:23 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 07:10:23 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 07:10:23 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 07:10:23 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 07:10:23 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 07:10:23 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 07:10:24 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 07:10:34 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 07:10:34 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 07:10:34 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 07:10:34 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 07:10:34 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 07:10:34 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 07:10:35 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 07:10:43 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 07:10:43 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 07:10:43 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 07:10:43 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 07:10:43 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 07:10:43 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 07:10:44 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 07:10:52 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 07:10:52 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 07:10:52 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 07:10:52 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 07:10:52 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 07:10:52 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 07:10:53 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 07:11:12 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 07:11:12 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 07:11:12 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 07:11:12 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 07:11:12 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 07:11:12 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 07:11:13 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 07:11:22 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 07:11:22 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 07:11:22 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 07:11:22 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 07:11:22 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 07:11:22 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 07:11:23 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 07:11:30 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 07:11:30 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 07:11:30 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 07:11:30 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 07:11:30 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 07:11:30 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 07:11:31 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 07:11:53 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 07:11:53 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 07:11:53 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 07:11:53 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 07:11:53 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 07:11:53 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 07:11:54 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 07:12:04 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 07:12:04 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 07:12:04 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 07:12:04 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 07:12:04 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 07:12:04 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 07:12:05 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 07:12:19 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 07:12:19 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 07:12:19 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 07:12:19 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 07:12:19 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 07:12:19 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 07:12:20 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 07:12:31 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 07:12:31 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 07:12:31 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 07:12:31 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 07:12:31 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 07:12:31 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 07:12:32 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 07:12:43 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 07:12:43 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 07:12:43 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 07:12:43 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 07:12:43 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 07:12:43 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 07:12:44 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 07:12:49 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 07:12:49 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 07:12:49 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 07:12:49 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 07:12:49 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 07:12:49 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 07:12:50 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 07:12:56 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 07:12:56 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 07:12:56 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 07:12:56 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 07:12:56 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 07:12:56 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 07:12:57 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 07:12:58 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 07:12:58 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 07:12:58 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 07:12:58 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 07:12:58 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 07:12:58 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 07:13:00 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 07:13:24 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 07:13:24 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 07:13:24 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 07:13:24 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 07:13:24 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 07:13:24 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 07:13:25 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 07:13:27 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 07:13:27 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 07:13:27 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 07:13:27 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 07:13:27 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 07:13:27 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 07:13:28 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 07:13:31 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 07:13:31 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 07:13:31 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 07:13:31 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 07:13:31 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 07:13:31 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 07:13:32 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 07:13:40 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 07:13:40 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 07:13:40 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 07:13:40 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 07:13:40 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 07:13:40 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 07:13:41 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 07:13:51 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 07:13:51 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 07:13:51 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 07:13:51 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 07:13:51 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 07:13:51 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 07:13:52 | Sep 12, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 07:14:28 | Sep 12, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 07:14:28 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 07:14:28 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 07:14:28 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 07:14:28 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 07:14:28 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 07:14:29 | Sep 12, 2023 ]:  Starting new listener cycle
+[ INFO ][ betterLogging.py:17 ][ 07:14:33 | Sep 12, 2023 ]:  Trigger detected
+[ DEBUG ][ betterLogging.py:16 ][ 07:14:33 | Sep 12, 2023 ]:  Jarvis restart
+[ INFO ][ betterLogging.py:17 ][ 07:14:33 | Sep 12, 2023 ]:  Generating transcript
+[ DEBUG ][ betterLogging.py:16 ][ 07:14:33 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 07:14:33 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ INFO ][ betterLogging.py:17 ][ 07:14:33 | Sep 12, 2023 ]:  Processing audio data
+[ DEBUG ][ util.py:60 ][ 07:14:34 | Sep 12, 2023 ]:  message='Request to OpenAI API' method=post path=https://api.openai.com/v1/audio/transcriptions
+[ DEBUG ][ util.py:60 ][ 07:14:34 | Sep 12, 2023 ]:  api_version=None data="{'model': 'whisper-1'}" message='Post details'
+[ DEBUG ][ retry.py:351 ][ 07:14:34 | Sep 12, 2023 ]:  Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[ DEBUG ][ connectionpool.py:1014 ][ 07:14:34 | Sep 12, 2023 ]:  Starting new HTTPS connection (1): api.openai.com:443
+[ DEBUG ][ connectionpool.py:473 ][ 07:14:36 | Sep 12, 2023 ]:  https://api.openai.com:443 "POST /v1/audio/transcriptions HTTP/1.1" 200 27
+[ DEBUG ][ util.py:60 ][ 07:14:36 | Sep 12, 2023 ]:  message='OpenAI API response' path=https://api.openai.com/v1/audio/transcriptions processing_ms=378 request_id=4a5ec8053a61fc7fb7053cc50724c04d response_code=200
+[ DEBUG ][ betterLogging.py:16 ][ 07:14:36 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 07:14:36 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ INFO ][ betterLogging.py:17 ][ 07:14:36 | Sep 12, 2023 ]:  Sending to completion model:
+[{'content': "You are Jarvis you are a aria based model, an AI voice assistant with a knowledge cutoff of September, 2021. Aria stands for 'Advanced Real-time Intelligent Assistant'.As an AI, you can use commands. These commands will be removed from your message before it is sent. Commands you can use are: system which handels all system actions like shutdown restart or sleep For system: parameter 1 =action. Command format: START:{THE COMMAND}>{PARAMETER(S)} Example system command: START:system>shutdown:END you must say the command . The time and date is 09:01 PM, HST. Units are in the Imperial standard.", 'role': 'system'}, {'content': 'Jarvis, restart.', 'role': 'user'}]
+[ DEBUG ][ util.py:60 ][ 07:14:36 | Sep 12, 2023 ]:  message='Request to OpenAI API' method=post path=https://api.openai.com/v1/chat/completions
+[ DEBUG ][ util.py:60 ][ 07:14:36 | Sep 12, 2023 ]:  api_version=None data='{"model": "gpt-4", "messages": [{"content": "You are Jarvis you are a aria based model, an AI voice assistant with a knowledge cutoff of September, 2021. Aria stands for \'Advanced Real-time Intelligent Assistant\'.As an AI, you can use commands. These commands will be removed from your message before it is sent. Commands you can use are: system which handels all system actions like shutdown restart or sleep For system: parameter 1 =action. Command format: START:{THE COMMAND}>{PARAMETER(S)} Example system command: START:system>shutdown:END you must say the command . The time and date is 09:01 PM, HST. Units are in the Imperial standard.", "role": "system"}, {"content": "Jarvis, restart.", "role": "user"}], "stream": true}' message='Post details'
+[ DEBUG ][ connectionpool.py:473 ][ 07:14:37 | Sep 12, 2023 ]:  https://api.openai.com:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+[ DEBUG ][ util.py:60 ][ 07:14:37 | Sep 12, 2023 ]:  message='OpenAI API response' path=https://api.openai.com/v1/chat/completions processing_ms=7 request_id=6a08d8aed9158251ca96005ac58d58ec response_code=200
+[ INFO ][ betterLogging.py:17 ][ 07:14:38 | Sep 12, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 07:14:38 | Sep 12, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 07:14:38 | Sep 12, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 07:14:38 | Sep 12, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 07:14:38 | Sep 12, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 07:14:38 | Sep 12, 2023 ]:  Generating speech from text:
+START:system>restart:END
+[ INFO ][ betterLogging.py:17 ][ 07:14:39 | Sep 12, 2023 ]:  Starting new listener cycle

@@ -1,0 +1,40 @@
+[ INFO ][ betterLogging.py:17 ][ 16:01:50 | Sep 14, 2023 ]:  Configuring Azure speech engine
+[ INFO ][ betterLogging.py:17 ][ 16:01:50 | Sep 14, 2023 ]:  Azure speech engine configured
+[ INFO ][ betterLogging.py:17 ][ 16:01:50 | Sep 14, 2023 ]:  Loading .env variables
+[ INFO ][ betterLogging.py:17 ][ 16:01:50 | Sep 14, 2023 ]:  .env variables loaded
+[ INFO ][ betterLogging.py:17 ][ 16:01:50 | Sep 14, 2023 ]:  Initilizing completion loop
+[ INFO ][ betterLogging.py:17 ][ 16:01:50 | Sep 14, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 16:01:50 | Sep 14, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 16:01:50 | Sep 14, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 16:01:50 | Sep 14, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 16:01:51 | Sep 14, 2023 ]:  Starting new listener cycle
+[ INFO ][ betterLogging.py:17 ][ 16:01:57 | Sep 14, 2023 ]:  Trigger detected
+[ DEBUG ][ betterLogging.py:16 ][ 16:01:57 | Sep 14, 2023 ]:  Jarvis what time is it
+[ INFO ][ betterLogging.py:17 ][ 16:01:57 | Sep 14, 2023 ]:  Generating transcript
+[ DEBUG ][ betterLogging.py:16 ][ 16:01:57 | Sep 14, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 16:01:57 | Sep 14, 2023 ]:  OpenAI loaded with key "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"
+[ INFO ][ betterLogging.py:17 ][ 16:01:57 | Sep 14, 2023 ]:  Processing audio data
+[ DEBUG ][ util.py:60 ][ 16:01:57 | Sep 14, 2023 ]:  message='Request to OpenAI API' method=post path=https://api.openai.com/v1/audio/transcriptions
+[ DEBUG ][ util.py:60 ][ 16:01:57 | Sep 14, 2023 ]:  api_version=None data="{'model': 'whisper-1'}" message='Post details'
+[ DEBUG ][ retry.py:351 ][ 16:01:57 | Sep 14, 2023 ]:  Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[ DEBUG ][ connectionpool.py:1014 ][ 16:01:57 | Sep 14, 2023 ]:  Starting new HTTPS connection (1): api.openai.com:443
+[ DEBUG ][ connectionpool.py:473 ][ 16:01:58 | Sep 14, 2023 ]:  https://api.openai.com:443 "POST /v1/audio/transcriptions HTTP/1.1" 200 35
+[ DEBUG ][ util.py:60 ][ 16:01:58 | Sep 14, 2023 ]:  message='OpenAI API response' path=https://api.openai.com/v1/audio/transcriptions processing_ms=399 request_id=acf64f9166be3b19812eaec915a3eca8 response_code=200
+[ DEBUG ][ betterLogging.py:16 ][ 16:01:58 | Sep 14, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 16:01:58 | Sep 14, 2023 ]:  OpenAI loaded with key "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"
+[ INFO ][ betterLogging.py:17 ][ 16:01:58 | Sep 14, 2023 ]:  Sending to completion model:
+[{'content': "You are Jarvis from iron man your speach should be Similar to jarvis you are a aria based model, an AI voice assistant with a knowledge cutoff of September, 2021. Aria stands for 'Advanced Real-time Intelligent Assistant'.As an AI, you can use commands. These commands will be removed from your message before it is sent. Commands you can use are: system which handels all system actions like shutdown restart or sleep For system: parameter 1 =action. Command format: START:{THE COMMAND}>{PARAMETER(S)} Example system command: START:system>shutdown:END you must say the command . The time and date is 04:01 PM, HST. Units are in the Imperial standard.", 'role': 'system'}, {'content': '04:01 PM', 'role': 'system'}, {'content': 'Jarvis, what time is it?', 'role': 'user'}]
+[ ERROR ][ betterLogging.py:19 ][ 16:01:58 | Sep 14, 2023 ]:  An error occured: can only concatenate list (not "str") to list
+[ INFO ][ betterLogging.py:17 ][ 16:01:58 | Sep 14, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 16:01:58 | Sep 14, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 16:01:58 | Sep 14, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 16:01:58 | Sep 14, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 16:01:58 | Sep 14, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 16:01:59 | Sep 14, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 16:02:12 | Sep 14, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 16:02:12 | Sep 14, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 16:02:12 | Sep 14, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 16:02:12 | Sep 14, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 16:02:12 | Sep 14, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 16:02:12 | Sep 14, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 16:02:13 | Sep 14, 2023 ]:  Starting new listener cycle

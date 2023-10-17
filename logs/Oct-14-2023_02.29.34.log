@@ -1,0 +1,4 @@
+[ INFO ][ betterLogging.py:17 ][ 16:29:34 | Oct 13, 2023 ]:  Configuring Azure speech engine
+[ INFO ][ betterLogging.py:17 ][ 16:29:34 | Oct 13, 2023 ]:  Azure speech engine configured
+[ INFO ][ betterLogging.py:17 ][ 16:29:34 | Oct 13, 2023 ]:  Generating speech from text:
+START:alarm>04:27 PM | 13 October, 2023:END hi world

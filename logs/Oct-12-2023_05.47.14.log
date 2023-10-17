@@ -1,0 +1,39 @@
+[ DEBUG ][ parse.py:371 ][ 19:47:15 | Oct 11, 2023 ]:  format '%I:%M %p | %d %B, %Y' -> '%I:%M %p \\| %d %B, %Y'
+[ INFO ][ betterLogging.py:17 ][ 19:47:15 | Oct 11, 2023 ]:  Configuring Azure speech engine
+[ INFO ][ betterLogging.py:17 ][ 19:47:15 | Oct 11, 2023 ]:  Azure speech engine configured
+[ INFO ][ betterLogging.py:17 ][ 19:47:15 | Oct 11, 2023 ]:  Loading .env variables
+[ INFO ][ betterLogging.py:17 ][ 19:47:15 | Oct 11, 2023 ]:  .env variables loaded
+[ INFO ][ betterLogging.py:17 ][ 19:47:15 | Oct 11, 2023 ]:  Initilizing completion loop
+[ INFO ][ betterLogging.py:17 ][ 19:47:15 | Oct 11, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 19:47:15 | Oct 11, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 19:47:15 | Oct 11, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 19:47:15 | Oct 11, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 19:47:17 | Oct 11, 2023 ]:  Starting new listener cycle
+[ INFO ][ betterLogging.py:17 ][ 19:47:23 | Oct 11, 2023 ]:  Trigger detected
+[ DEBUG ][ betterLogging.py:16 ][ 19:47:23 | Oct 11, 2023 ]:  what time is it Jarvis
+[ INFO ][ betterLogging.py:17 ][ 19:47:23 | Oct 11, 2023 ]:  Generating transcript
+[ DEBUG ][ betterLogging.py:16 ][ 19:47:23 | Oct 11, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 19:47:23 | Oct 11, 2023 ]:  OpenAI loaded with key "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"
+[ INFO ][ betterLogging.py:17 ][ 19:47:23 | Oct 11, 2023 ]:  Processing audio data
+[ DEBUG ][ util.py:60 ][ 19:47:23 | Oct 11, 2023 ]:  message='Request to OpenAI API' method=post path=https://api.openai.com/v1/audio/transcriptions
+[ DEBUG ][ util.py:60 ][ 19:47:23 | Oct 11, 2023 ]:  api_version=None data="{'model': 'whisper-1'}" message='Post details'
+[ DEBUG ][ retry.py:351 ][ 19:47:23 | Oct 11, 2023 ]:  Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[ DEBUG ][ connectionpool.py:1014 ][ 19:47:23 | Oct 11, 2023 ]:  Starting new HTTPS connection (1): api.openai.com:443
+[ DEBUG ][ connectionpool.py:473 ][ 19:47:25 | Oct 11, 2023 ]:  https://api.openai.com:443 "POST /v1/audio/transcriptions HTTP/1.1" 200 35
+[ DEBUG ][ util.py:60 ][ 19:47:25 | Oct 11, 2023 ]:  message='OpenAI API response' path=https://api.openai.com/v1/audio/transcriptions processing_ms=417 request_id=5dc406d1327fe8d15d4cf2299e9ca4ff response_code=200
+[ DEBUG ][ betterLogging.py:16 ][ 19:47:25 | Oct 11, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 19:47:25 | Oct 11, 2023 ]:  OpenAI loaded with key "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"
+[ INFO ][ betterLogging.py:17 ][ 19:47:25 | Oct 11, 2023 ]:  Sending to completion model:
+[{'content': "You are Jarvis from iron man your speach should be Similar to jarvis (so be a bit more life like) you are a aria based model, an AI voice assistant with a knowledge cutoff of September, 2021. Aria stands for 'Advanced Real-time Intelligent Assistant'.As an AI, you can use commands. These commands will be removed from your message before it is sent. Commands you can use are: system which handels all system actions,timers which sets a timer,Alarm which sets a Alarm. actions like shutdown restart or sleep For system: parameter 1 =action. for timers(cancel timer does not need a int value): parameter 1 =the name of the timer, parameter 2 =time in Seconds(convert the time given to Seconds) For alarms parameter 1= the desired date (use the format that you are given for the current time). the Command format: START:{THE COMMAND}>{PARAMETER(S)} Example system command: START:system>shutdown:END.  Example timer command: START:timer>pizza timer>10:END Example cancel timer command: START:killTimer>pizza timer:END Example alarm commnad: START:alarm>03:19 PM | 28 September, 2023:END you must say the commands or they will not run. The time and date is 07:47 PM | 11 October, 2023, HST. Units are in the Imperial standard.", 'role': 'system'}, {'content': 'This current time 07:47 PM | 11 October, 2023', 'role': 'system'}, {'content': 'What time is it, Jarvis?', 'role': 'user'}]
+[ DEBUG ][ util.py:60 ][ 19:47:25 | Oct 11, 2023 ]:  message='Request to OpenAI API' method=post path=https://api.openai.com/v1/chat/completions
+[ DEBUG ][ util.py:60 ][ 19:47:25 | Oct 11, 2023 ]:  api_version=None data='{"model": "gpt-3.5-trubo", "messages": [{"content": "You are Jarvis from iron man your speach should be Similar to jarvis (so be a bit more life like) you are a aria based model, an AI voice assistant with a knowledge cutoff of September, 2021. Aria stands for \'Advanced Real-time Intelligent Assistant\'.As an AI, you can use commands. These commands will be removed from your message before it is sent. Commands you can use are: system which handels all system actions,timers which sets a timer,Alarm which sets a Alarm. actions like shutdown restart or sleep For system: parameter 1 =action. for timers(cancel timer does not need a int value): parameter 1 =the name of the timer, parameter 2 =time in Seconds(convert the time given to Seconds) For alarms parameter 1= the desired date (use the format that you are given for the current time). the Command format: START:{THE COMMAND}>{PARAMETER(S)} Example system command: START:system>shutdown:END.  Example timer command: START:timer>pizza timer>10:END Example cancel timer command: START:killTimer>pizza timer:END Example alarm commnad: START:alarm>03:19 PM | 28 September, 2023:END you must say the commands or they will not run. The time and date is 07:47 PM | 11 October, 2023, HST. Units are in the Imperial standard.", "role": "system"}, {"content": "This current time 07:47 PM | 11 October, 2023", "role": "system"}, {"content": "What time is it, Jarvis?", "role": "user"}], "stream": true}' message='Post details'
+[ DEBUG ][ connectionpool.py:473 ][ 19:47:25 | Oct 11, 2023 ]:  https://api.openai.com:443 "POST /v1/chat/completions HTTP/1.1" 404 None
+[ DEBUG ][ util.py:60 ][ 19:47:25 | Oct 11, 2023 ]:  message='OpenAI API response' path=https://api.openai.com/v1/chat/completions processing_ms=None request_id=fc9c69cc9044d0d7f12108c6ff4a8943 response_code=404
+[ INFO ][ util.py:67 ][ 19:47:25 | Oct 11, 2023 ]:  error_code=model_not_found error_message='The model `gpt-3.5-trubo` does not exist' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+[ ERROR ][ betterLogging.py:19 ][ 19:47:25 | Oct 11, 2023 ]:  An error occured: The model `gpt-3.5-trubo` does not exist
+[ INFO ][ betterLogging.py:17 ][ 19:47:25 | Oct 11, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 19:47:25 | Oct 11, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 19:47:25 | Oct 11, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 19:47:25 | Oct 11, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 19:47:25 | Oct 11, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 19:47:26 | Oct 11, 2023 ]:  Starting new listener cycle

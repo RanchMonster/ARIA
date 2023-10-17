@@ -1,0 +1,108 @@
+[ INFO ][ betterLogging.py:17 ][ 16:22:30 | Oct 13, 2023 ]:  Configuring Azure speech engine
+[ INFO ][ betterLogging.py:17 ][ 16:22:30 | Oct 13, 2023 ]:  Azure speech engine configured
+[ INFO ][ betterLogging.py:17 ][ 16:22:30 | Oct 13, 2023 ]:  Loading .env variables
+[ INFO ][ betterLogging.py:17 ][ 16:22:30 | Oct 13, 2023 ]:  .env variables loaded
+[ INFO ][ betterLogging.py:17 ][ 16:22:30 | Oct 13, 2023 ]:  Initilizing completion loop
+[ INFO ][ betterLogging.py:17 ][ 16:22:30 | Oct 13, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 16:22:30 | Oct 13, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 16:22:30 | Oct 13, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 16:22:30 | Oct 13, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 16:22:31 | Oct 13, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 16:22:46 | Oct 13, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 16:22:46 | Oct 13, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 16:22:46 | Oct 13, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 16:22:46 | Oct 13, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 16:22:46 | Oct 13, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 16:22:46 | Oct 13, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 16:22:47 | Oct 13, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 16:23:01 | Oct 13, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 16:23:01 | Oct 13, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 16:23:01 | Oct 13, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 16:23:01 | Oct 13, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 16:23:01 | Oct 13, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 16:23:01 | Oct 13, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 16:23:02 | Oct 13, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 16:23:06 | Oct 13, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 16:23:06 | Oct 13, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 16:23:06 | Oct 13, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 16:23:06 | Oct 13, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 16:23:06 | Oct 13, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 16:23:06 | Oct 13, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 16:23:07 | Oct 13, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 16:23:10 | Oct 13, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 16:23:10 | Oct 13, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 16:23:10 | Oct 13, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 16:23:10 | Oct 13, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 16:23:10 | Oct 13, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 16:23:10 | Oct 13, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 16:23:11 | Oct 13, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 16:23:19 | Oct 13, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 16:23:19 | Oct 13, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 16:23:19 | Oct 13, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 16:23:19 | Oct 13, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 16:23:19 | Oct 13, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 16:23:19 | Oct 13, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 16:23:20 | Oct 13, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 16:23:37 | Oct 13, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 16:23:37 | Oct 13, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 16:23:37 | Oct 13, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 16:23:37 | Oct 13, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 16:23:37 | Oct 13, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 16:23:37 | Oct 13, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 16:23:38 | Oct 13, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 16:24:06 | Oct 13, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 16:24:06 | Oct 13, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 16:24:06 | Oct 13, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 16:24:06 | Oct 13, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 16:24:06 | Oct 13, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 16:24:06 | Oct 13, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 16:24:07 | Oct 13, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 16:24:27 | Oct 13, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 16:24:27 | Oct 13, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 16:24:27 | Oct 13, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 16:24:27 | Oct 13, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 16:24:27 | Oct 13, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 16:24:27 | Oct 13, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 16:24:28 | Oct 13, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 16:24:39 | Oct 13, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 16:24:39 | Oct 13, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 16:24:39 | Oct 13, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 16:24:39 | Oct 13, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 16:24:39 | Oct 13, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 16:24:39 | Oct 13, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 16:24:40 | Oct 13, 2023 ]:  Starting new listener cycle
+[ INFO ][ betterLogging.py:17 ][ 16:25:00 | Oct 13, 2023 ]:  Trigger detected
+[ DEBUG ][ betterLogging.py:16 ][ 16:25:00 | Oct 13, 2023 ]:  Jarvis set a alarm for 4:25
+[ INFO ][ betterLogging.py:17 ][ 16:25:00 | Oct 13, 2023 ]:  Generating transcript
+[ DEBUG ][ betterLogging.py:16 ][ 16:25:00 | Oct 13, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 16:25:00 | Oct 13, 2023 ]:  OpenAI loaded with key "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"
+[ INFO ][ betterLogging.py:17 ][ 16:25:00 | Oct 13, 2023 ]:  Processing audio data
+[ DEBUG ][ util.py:60 ][ 16:25:00 | Oct 13, 2023 ]:  message='Request to OpenAI API' method=post path=https://api.openai.com/v1/audio/transcriptions
+[ DEBUG ][ util.py:60 ][ 16:25:00 | Oct 13, 2023 ]:  api_version=None data="{'model': 'whisper-1'}" message='Post details'
+[ DEBUG ][ retry.py:351 ][ 16:25:00 | Oct 13, 2023 ]:  Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[ DEBUG ][ connectionpool.py:1014 ][ 16:25:00 | Oct 13, 2023 ]:  Starting new HTTPS connection (1): api.openai.com:443
+[ DEBUG ][ connectionpool.py:473 ][ 16:25:02 | Oct 13, 2023 ]:  https://api.openai.com:443 "POST /v1/audio/transcriptions HTTP/1.1" 200 40
+[ DEBUG ][ util.py:60 ][ 16:25:02 | Oct 13, 2023 ]:  message='OpenAI API response' path=https://api.openai.com/v1/audio/transcriptions processing_ms=476 request_id=6ca83087bda6e0e42d56562c2bf1012a response_code=200
+[ DEBUG ][ betterLogging.py:16 ][ 16:25:02 | Oct 13, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 16:25:02 | Oct 13, 2023 ]:  OpenAI loaded with key "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"
+[ INFO ][ betterLogging.py:17 ][ 16:25:02 | Oct 13, 2023 ]:  Sending to completion model:
+[{'content': "You are Jarvis from iron man your speach should be Similar to jarvis (so be a bit more life like) you are a aria based model, an AI voice assistant with a knowledge cutoff of September, 2021. Aria stands for 'Advanced Real-time Intelligent Assistant'.As an AI, you can use commands. These commands will be removed from your message before it is sent. Commands you can use are: system which handels all system actions,timers which sets a timer,Alarm which sets a Alarm. actions like shutdown restart or sleep For system: parameter 1 =action. for timers(cancel timer does not need a int value): parameter 1 =the name of the timer, parameter 2 =time in Seconds(convert the time given to Seconds) For alarms parameter 1= the desired date (use the format that you are given for the current time). the Command format: START:{THE COMMAND}>{PARAMETER(S)} Example system command: START:system>shutdown:END.  Example timer command: START:timer>pizza timer>10:END Example cancel timer command: START:killTimer>pizza timer:END Example alarm commnad: START:alarm>03:19 PM | 28 September, 2023:END you must say the commands or they will not run. The time and date is 04:22 PM | 13 October, 2023, HST. Units are in the Imperial standard.", 'role': 'system'}, {'content': 'This current time 04:25 PM | 13 October, 2023', 'role': 'system'}, {'content': 'Jarvis, set an alarm for 425.', 'role': 'user'}]
+[ DEBUG ][ util.py:60 ][ 16:25:02 | Oct 13, 2023 ]:  message='Request to OpenAI API' method=post path=https://api.openai.com/v1/chat/completions
+[ DEBUG ][ util.py:60 ][ 16:25:02 | Oct 13, 2023 ]:  api_version=None data='{"model": "gpt-3.5-turbo", "messages": [{"content": "You are Jarvis from iron man your speach should be Similar to jarvis (so be a bit more life like) you are a aria based model, an AI voice assistant with a knowledge cutoff of September, 2021. Aria stands for \'Advanced Real-time Intelligent Assistant\'.As an AI, you can use commands. These commands will be removed from your message before it is sent. Commands you can use are: system which handels all system actions,timers which sets a timer,Alarm which sets a Alarm. actions like shutdown restart or sleep For system: parameter 1 =action. for timers(cancel timer does not need a int value): parameter 1 =the name of the timer, parameter 2 =time in Seconds(convert the time given to Seconds) For alarms parameter 1= the desired date (use the format that you are given for the current time). the Command format: START:{THE COMMAND}>{PARAMETER(S)} Example system command: START:system>shutdown:END.  Example timer command: START:timer>pizza timer>10:END Example cancel timer command: START:killTimer>pizza timer:END Example alarm commnad: START:alarm>03:19 PM | 28 September, 2023:END you must say the commands or they will not run. The time and date is 04:22 PM | 13 October, 2023, HST. Units are in the Imperial standard.", "role": "system"}, {"content": "This current time 04:25 PM | 13 October, 2023", "role": "system"}, {"content": "Jarvis, set an alarm for 425.", "role": "user"}], "stream": true}' message='Post details'
+[ DEBUG ][ connectionpool.py:473 ][ 16:25:03 | Oct 13, 2023 ]:  https://api.openai.com:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+[ DEBUG ][ util.py:60 ][ 16:25:03 | Oct 13, 2023 ]:  message='OpenAI API response' path=https://api.openai.com/v1/chat/completions processing_ms=8 request_id=68a0dbfd8a9f3966fd63f553850d8962 response_code=200
+[ INFO ][ betterLogging.py:17 ][ 16:25:05 | Oct 13, 2023 ]:  Generating speech from text:
+Apologies for the confusion, but please provide the desired date and time in the format mentioned earlier so that I can set the alarm accurately.
+[ INFO ][ betterLogging.py:17 ][ 16:25:05 | Oct 13, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 16:25:05 | Oct 13, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 16:25:05 | Oct 13, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 16:25:05 | Oct 13, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 16:25:05 | Oct 13, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 16:25:06 | Oct 13, 2023 ]:  Starting new listener cycle
+[ DEBUG ][ betterLogging.py:16 ][ 16:25:12 | Oct 13, 2023 ]:  No text could be transcribed (Python transcription)
+[ INFO ][ betterLogging.py:17 ][ 16:25:12 | Oct 13, 2023 ]:  Listener loop closed
+[ INFO ][ betterLogging.py:17 ][ 16:25:12 | Oct 13, 2023 ]:  Initilizing new listener loop
+[ DEBUG ][ betterLogging.py:16 ][ 16:25:12 | Oct 13, 2023 ]:  Initilizing OpenAI
+[ INFO ][ betterLogging.py:17 ][ 16:25:12 | Oct 13, 2023 ]:  OpenAI loaded with key "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"
+[ DEBUG ][ betterLogging.py:16 ][ 16:25:12 | Oct 13, 2023 ]:  Initalizing microphone
+[ INFO ][ betterLogging.py:17 ][ 16:25:13 | Oct 13, 2023 ]:  Starting new listener cycle

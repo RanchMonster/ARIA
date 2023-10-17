@@ -1,0 +1,4 @@
+[ DEBUG ][ parse.py:371 ][ 11:04:28 | Oct 12, 2023 ]:  format '%I:%M %p | %d %B, %Y' -> '%I:%M %p \\| %d %B, %Y'
+[ INFO ][ betterLogging.py:17 ][ 11:04:28 | Oct 12, 2023 ]:  Configuring Azure speech engine
+[ INFO ][ betterLogging.py:17 ][ 11:04:28 | Oct 12, 2023 ]:  Azure speech engine configured
+[ DEBUG ][ parse.py:371 ][ 11:04:28 | Oct 12, 2023 ]:  format '%I:%M %p | %d %B, %Y' -> '%I:%M %p \\| %d %B, %Y'
