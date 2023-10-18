@@ -5,11 +5,14 @@ import re
 import betterLogging as log
 import betterSmartAssist as BST
 import threading
+import json
+
+
 def extract_command_and_parameters(message: str):
     match = re.search(r'START:(.*):END', message)
     if match:  return match.group(1)
     else: return None
-import json
+
 
 def execute_encoded_message(response):
     full_executor = extract_command_and_parameters(response)
@@ -47,7 +50,8 @@ def execute_encoded_message(response):
         BST.TimerClass.cancelTimer(name)
     if command.lower() == "alarm":BST.AlarmClass.SetAlarm(parameters[0])
 
-"""
+#this were the old method for running functions ends and were the new method begins
+
 functions=[
     {"name": "DateTime",
         "description": "Provides the date and time for the user",
@@ -55,7 +59,7 @@ functions=[
             "type": "object",
             "properties": {
                 "format": {
-                    "type": "int",
+                    "type": "number",
                     "description": "the format you want "
                 }
             },
@@ -128,25 +132,23 @@ def system_command(action:str):
     if action.lower() == "shutdown":
         
         try:
-            log.info(r"shutdown ran")
-            #ctypes.windll.shell32.ShellExecuteW(None, "runas", sys.executable, __file__, None, 1)
-            #os.system("shutdown /s /t 1")
+            print(r"shutdown ran")
+            ctypes.windll.shell32.ShellExecuteW(None, "runas", sys.executable, __file__, None, 1)
+            os.system("shutdown /s /t 1")
             print("shutdown")
         except:
-            log.error(r"shutdown throw a error so something happend")
+            print(r"shutdown throw a error so something happend")
             ctypes.windll.shell32.ShellExecuteW(None, "runas", sys.executable, __file__, None, 1)
 
     if action.lower() == "restart":
         
         try:
-            #ctypes.windll.shell32.ShellExecuteW(None, "runas", sys.executable, __file__, None, 1)
-            #os.system("shutdown /r /t 1")
-            log.error("restart")
+            ctypes.windll.shell32.ShellExecuteW(None, "runas", sys.executable, __file__, None, 1)
+            os.system("shutdown /r /t 1")
+            log.debug("restart")
         except:
             log.error("error with restart")
             ctypes.windll.shell32.ShellExecuteW(None, "runas", sys.executable, __file__, None, 1)
-            actions={
-                "what_happend":f"system command {action} ran"
-            }
+            action=f"system command {action} ran"
+    #actions={["action":action]}
     return json.dump(actions)
-"""
