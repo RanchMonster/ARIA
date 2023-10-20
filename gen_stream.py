@@ -65,7 +65,7 @@ def generate(messages, api_key: str = None ):
     openai.api_key = api_key
     log.info(f'OpenAI loaded with key "{api_key}"')
     log.info(f'Sending to completion model:\n{message_list}')
-    response = openai.ChatCompletion.create(model='gpt-3.5-turbo-061', messages=message_list, stream=True,functions=gpt_commands)
+    response = openai.ChatCompletion.create(model='gpt-3.5-turbo-0613', messages=message_list, stream=True,functions=gpt_commands)
     response = gpt_functions(response,messages)
     patritioned_response = ''
     full_response = ''
