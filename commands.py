@@ -6,7 +6,7 @@ import betterLogging as log
 import betterSmartAssist as BST
 import threading
 import json
-
+from betterDateTime import*
 
 def extract_command_and_parameters(message: str):
     match = re.search(r'START:(.*):END', message)
@@ -54,16 +54,11 @@ def execute_encoded_message(response):
 
 functions=[
     {"name": "DateTime",
-        "description": "Provides the date and time for the user",
+        "description": "Provides the date and time for you to tell the user",
         "parameters": {
             "type": "object",
-            "properties": {
-                "format": {
-                    "type": "number",
-                    "description": "the format you want "
-                }
-            },
-            "required": ["action"]
+            "properties": {},
+            
         }
     },
     {
@@ -133,8 +128,7 @@ def system_command(action:str):
         
         try:
             print(r"shutdown ran")
-            ctypes.windll.shell32.ShellExecuteW(None, "runas", sys.executable, __file__, None, 1)
-            os.system("shutdown /s /t 1")
+            #os.system("shutdown /s /t 1")
             print("shutdown")
         except:
             print(r"shutdown throw a error so something happend")
@@ -143,12 +137,12 @@ def system_command(action:str):
     if action.lower() == "restart":
         
         try:
-            ctypes.windll.shell32.ShellExecuteW(None, "runas", sys.executable, __file__, None, 1)
-            os.system("shutdown /r /t 1")
+            #os.system("shutdown /r /t 1")
             log.debug("restart")
         except:
             log.error("error with restart")
-            ctypes.windll.shell32.ShellExecuteW(None, "runas", sys.executable, __file__, None, 1)
+            #ctypes.windll.shell32.ShellExecuteW(None, "runas", sys.executable, __file__, None, 1)
             action=f"system command {action} ran"
-    #actions={["action":action]}
-    return json.dump(actions)
+    actions={"action":action}
+    return "the system is shuting down tell the user"
+def DateTime():return get_datetime(00, 'US/Pacific')
