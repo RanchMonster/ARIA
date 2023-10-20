@@ -9,6 +9,7 @@ from betterDateTime import *
 import commands as c
 import betterSmartAssist as BST
 import json
+from main import Name
 available_functions = {
     "system_command": c.system_command,
     "DateTime":c.DateTime,
@@ -53,7 +54,7 @@ def gpt_functions(response,messages):
 timezone = 'HST'
 units = 'Imperial'
 gpt_commands =c.functions
-system_message = f"You are Jarvis from iron man your speach should be Similar to jarvis (so be a bit more life like) you are a aria based model, an AI voice assistant with a knowledge cutoff of September, 2021. Aria stands for 'Advanced Real-time Intelligent Assistant'.{gpt_commands} you must say the commands or they will not run. The time and date is {get_datetime(00, 'US/Pacific')}, {timezone}. Units are in the {units} standard."
+system_message = f"Your name is {Name} you are a ARIA based model ARIA stand for advanced real time assistant , an AI voice assistant with a knowledge cutoff of September, 2021. Aria stands for 'Advanced Real-time Intelligent Assistant' The time and date is Units are in the {units} standard."
 message_list = [{"content": system_message, "role": "system"}]
 first_message = message_list    
 def generate(messages, api_key: str = None ):
