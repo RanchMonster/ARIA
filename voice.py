@@ -2,10 +2,14 @@ import azure.cognitiveservices.speech as speechsdk
 from betterLogging import *
 import betterLogging as log
 import commands as command
-
+from vars import gender,voice,azure
+if azure==None:raise("please put in azure subscription")
 info('Configuring Azure speech engine')
-speech_config = speechsdk.SpeechConfig(subscription="29037678ff9841b9a75aa04cf6dd6d51", region="eastus")
-speech_config.speech_synthesis_voice_name = "en-GB-AlfieNeural"
+speech_config = speechsdk.SpeechConfig(subscription=azure, region="eastus")
+if gender&voice=="male": speech_config.speech_synthesis_voice_name = "en-GB-AlfieNeural"
+elif gender&voice=="female":speech_config.speech_synthesis_voice_name = "en-US-JaneNeural"
+elif gender!=True&voice!=None:speech_config.speech_synthesis_voice_name = voice
+else:speech_config.speech_synthesis_voice_name = "en-US-JaneNeural";log.error("no voice was set default voice is being used")
 speech_synthesizer = speechsdk.SpeechSynthesizer(speech_config=speech_config)
 info('Azure speech engine configured')
 

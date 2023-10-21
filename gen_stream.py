@@ -9,7 +9,7 @@ from betterDateTime import *
 import commands as c
 import betterSmartAssist as BST
 import json
-from main import Name
+from vars import Name
 available_functions = {
     "system_command": c.system_command,
     "DateTime":c.DateTime,
