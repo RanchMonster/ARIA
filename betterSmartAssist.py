@@ -53,5 +53,11 @@ class AlarmClass:
         time=ast.literal_eval(time)
         time=time["datetime"]
         lm.add_item('Alarms',time);return 'alarm is set'
-    def cancelAlarm(time:str):lm.remove_item('Alarms',time)
+    
+    def cancelAlarm(dict): 
+        dict=ast.literal_eval(dict)
+        name=name['datetime']
+        lm.remove_item('Alarms',name)
+
+
 
