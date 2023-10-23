@@ -126,6 +126,7 @@ functions=[
 ]
 
 def system_command(action):
+    action =ast.literal_eval(action)
     action=action['action']
     if action.lower() == "shutdown":
         
