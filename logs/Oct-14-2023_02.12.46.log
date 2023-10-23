@@ -1,4 +1,0 @@
-[ INFO ][ betterLogging.py:17 ][ 16:12:47 | Oct 13, 2023 ]:  Configuring Azure speech engine
-[ INFO ][ betterLogging.py:17 ][ 16:12:47 | Oct 13, 2023 ]:  Azure speech engine configured
-[ INFO ][ betterLogging.py:17 ][ 16:12:47 | Oct 13, 2023 ]:  Loading .env variables
-[ INFO ][ betterLogging.py:17 ][ 16:12:47 | Oct 13, 2023 ]:  .env variables loaded

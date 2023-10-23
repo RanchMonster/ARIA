@@ -7,6 +7,7 @@ import voice as voice
 import BetterListManager as lm
 import datetime
 import time as t
+import ast
 load_dotenv()
 def env(s: str): return os.environ.get(s)
 api_key = env('api_key')
@@ -18,7 +19,11 @@ class TimerClass:
         while time.time() < end_time:pass
         return True
 
-    def setTimer(name, seconds):
+    def setTimer(dict):
+        dict=ast.literal_eval(dict)
+        seconds=dict['time']
+        name=dict['name']
+        seconds=int(seconds)
         timer_thread = threading.Thread(target=TimerClass.timer, args=[seconds])
         timer_thread.start()
         lm.add_item('Timers',name)
@@ -29,7 +34,10 @@ class TimerClass:
                 lm.remove_item('Timers',name)
                 voice.speak(f"{name} is done ")
 
-    def cancelTimer(name): lm.remove_item('Timers',name)
+    def cancelTimer(dict): 
+        dict=ast.literal_eval(dict)
+        name=name['name']
+        lm.remove_item('Timers',name)
 
 class AlarmClass:
     def AlarmSys():
@@ -41,6 +49,9 @@ class AlarmClass:
                 else:pass
             t.sleep(0.1)
 
-    def SetAlarm(time:str):lm.add_item('Alarms',time)
+    def SetAlarm(time:str):
+        time=ast.literal_eval(time)
+        time=time["datetime"]
+        lm.add_item('Alarms',time);return 'alarm is set'
     def cancelAlarm(time:str):lm.remove_item('Alarms',time)
 

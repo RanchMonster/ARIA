@@ -6,9 +6,9 @@ from vars import gender,voice,azure
 if azure==None:raise("please put in azure subscription")
 info('Configuring Azure speech engine')
 speech_config = speechsdk.SpeechConfig(subscription=azure, region="eastus")
-if gender&voice=="male": speech_config.speech_synthesis_voice_name = "en-GB-AlfieNeural"
-elif gender&voice=="female":speech_config.speech_synthesis_voice_name = "en-US-JaneNeural"
-elif gender!=True&voice!=None:speech_config.speech_synthesis_voice_name = voice
+if gender and voice=="male": speech_config.speech_synthesis_voice_name = "en-GB-AlfieNeural"
+elif gender and voice=="female":speech_config.speech_synthesis_voice_name = "en-US-JaneNeural"
+elif gender!=True and voice!=None:speech_config.speech_synthesis_voice_name = voice
 else:speech_config.speech_synthesis_voice_name = "en-US-JaneNeural";log.error("no voice was set default voice is being used")
 speech_synthesizer = speechsdk.SpeechSynthesizer(speech_config=speech_config)
 info('Azure speech engine configured')

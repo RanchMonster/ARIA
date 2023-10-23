@@ -51,10 +51,11 @@ def execute_encoded_message(response):
     if command.lower() == "alarm":BST.AlarmClass.SetAlarm(parameters[0])
 
 #this were the old method for running functions ends and were the new method begins
-
+def DateTime():return get_datetime(00, 'US/Pacific')
 functions=[
     {"name": "DateTime",
         "description": "Provides the date and time for you to tell the user",
+
         "parameters": {
             "type": "object",
             "properties": {},
@@ -86,11 +87,12 @@ functions=[
                     "description": "The name of the timer"
                 },
                 "time": {
-                    "type": "number",
-                    "description": "Time in seconds"
+                    "type": "string",
+                    "description": "Time in seconds it must be a int"
                 }
             },
-            "required": ["name", "time"]
+            
+            "required": ["name","time"]
         }
     },
     {
@@ -115,7 +117,7 @@ functions=[
             "properties": {
                 "datetime": {
                     "type": "string",
-                    "description": "The desired date and time for the alarm, e.g. 03:19 PM | 28 September, 2023"
+                    "description": f"The desired date and time for the alarm, in this format example: 03:19 PM | 28 September, 2023(this has to be a actual date it can not be a day like today or a week day). here is the current date and time if needed {DateTime()}"
                 }
             },
             "required": ["datetime"]
@@ -123,12 +125,13 @@ functions=[
     }
 ]
 
-def system_command(action:str):
+def system_command(action):
+    action=action['action']
     if action.lower() == "shutdown":
         
         try:
             print(r"shutdown ran")
-            #os.system("shutdown /s /t 1")
+            os.system("shutdown /s /t 1")
             print("shutdown")
         except:
             print(r"shutdown throw a error so something happend")
@@ -137,7 +140,7 @@ def system_command(action:str):
     if action.lower() == "restart":
         
         try:
-            #os.system("shutdown /r /t 1")
+            os.system("shutdown /r /t 1")
             log.debug("restart")
         except:
             log.error("error with restart")
@@ -145,4 +148,3 @@ def system_command(action:str):
             action=f"system command {action} ran"
     actions={"action":action}
     return "the system is shuting down tell the user"
-def DateTime():return get_datetime(00, 'US/Pacific')
